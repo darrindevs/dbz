@@ -1,8 +1,3 @@
-# gatsby-bsr-starter
+# DBZ
 
-- Gatsby Starter + Bootstrap React 
-- Light and Dark Navbars
-- Footer 
-
-Have fun! 
-# dbz
+A professional portfolio for DBZ
