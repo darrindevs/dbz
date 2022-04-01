@@ -28,7 +28,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-color: #ededed;
+    background-color: var(--background);
     background-position: 100% 92%;
     height: 100vw;
   }
@@ -49,10 +49,67 @@
 *********** Utilities ***********
 */
 
+:root {
+    
+    --background: #ededed;
+    /*--background: #1d5754;*/
+    --primary: black;
+    --orange: orange;
+    --blue: blue;
+    --green: green;
+    --red: red;
+    --black: black;
+    --gray: rgb(53, 52, 52);
+    --white: #ffffff;
+  }
 
 /* 
 *********** Blocks ***********
 */
+
+#nav-home {
+    margin-top: 40px;
+}
+
+.nav-home-1 {
+
+}
+
+.nav-home-2 {
+    margin-left: 100px;
+    
+}
+
+
+.nav-home-title {
+    color: var(--red);
+    font-size: 120px;
+    line-height: 95px;
+}
+
+.nav-home-link {
+    font-size: 36px;
+}
+
+.link-about {
+  color: var(--orange);
+}
+
+.link-plays {
+    color: var(--blue);
+}
+
+.link-community-projects {
+    color: var(--green);
+}
+
+.link-story-editing {
+    color: var(--red);
+}
+
+.link-contact {
+    color: var(--black);
+}
 
 
 /* 

@@ -4,6 +4,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import NavHome from "../components/nav-home"
 
 import { Container } from 'react-bootstrap'
 import { Row } from 'react-bootstrap'
@@ -14,10 +15,9 @@ const IndexPage = () => (
     <Seo title="Home" />
       <Row id="home">
         <Col className="d-flex justify-content-center" lg={{ span: 7, offset: 0 }}>
-         col 1
+          <NavHome />
         </Col>
         <Col className="d-flex justify-content-start" lg={{ span: 5, offset: 0 }}>
-         col 2
         </Col>
         
       
