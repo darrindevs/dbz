@@ -1,13 +1,11 @@
-.col {
-    background-color: green;
-    justify-content: center;
-}
-
 
 /* 
-*********** Navbar Dark ***********
+*********** Composition ***********
 */
 
+/* Layout */
+
+/* Navbar */
 /* How to style the toggler svg https://www.geeksforgeeks.org/how-to-change-hamburger-toggler-color-in-bootstrap/ */
 /* Set the border color */
           
@@ -21,9 +19,22 @@
 "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
-/* 
-*********** Footer ***********
-*/
+/* Index */
+
+/* https://css-tricks.com/perfect-full-page-background-image/ */
+#home { 
+    background: url("https://zno.s3.us-west-1.amazonaws.com/moe_765.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #ededed;
+    background-position: 100% 92%;
+    height: 100vw;
+  }
+
+
+/* Footer */
 .footer{
     margin-top: 1rem;
     padding: 1rem;
@@ -33,3 +44,24 @@
     left: 0;
     width: 100%;
   }
+
+/* 
+*********** Utilities ***********
+*/
+
+
+/* 
+*********** Blocks ***********
+*/
+
+
+/* 
+*********** Exceptions ***********
+*/
+
+
+
+
+
+
+
