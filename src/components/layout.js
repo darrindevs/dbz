@@ -46,12 +46,12 @@ const Layout = ({ children }) => {
       {/* Custom Navbar */}
       {NavLight}
       {/* Custom Container */}
-        <Container>
+      <Container fluid>
           <main>
-           
+          {children}
           </main>
-        </Container>
-       {/* <Footer/> */} 
+         </Container>
+       <Footer/>
     </>
   )
 }
