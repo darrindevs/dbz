@@ -97,7 +97,7 @@ html, body {
 .col-3 {
     background-color: rgb(156, 154, 154);
    
-}*/
+} 8?
 
 .row-1 {
     background-color: blue;
@@ -145,6 +145,39 @@ html, body {
     padding: 5px;
 
 }
+
+#nav-global {
+    margin-top: 40px;
+   
+}
+
+.nav-global-1 {
+    
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+.nav-global-2 {
+    margin-left: 0px;
+}
+
+
+.nav-global-title a {
+    font-size: 36px;
+    line-height: 36px;
+    color: var(--red);
+    text-decoration: none;
+}
+
+
+.nav-global-link {
+    font-size: 18px;
+    width: -moz-fit-content;
+    width: fit-content;
+    
+
+}
+
 
 .link-about a {
   color: var(--orange);
