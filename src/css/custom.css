@@ -57,6 +57,7 @@ html, body {
 
   /* About */
 
+ 
   #moe { 
     background: url("https://zno.s3.us-west-1.amazonaws.com/moe_589.png") no-repeat center bottom fixed; 
     /*background: url("https://zno.s3.us-west-1.amazonaws.com/moe_765.png") no-repeat center center fixed;*/
@@ -67,7 +68,20 @@ html, body {
     background-color: var(--black);
     background-position: bottom;
     height: 100vw;
-  }
+  } 
+  
+  /* Triptych */
+
+#moe-container {
+    display: flex;
+    height: 80%;
+}
+#moe-img {
+    display: inline-block;
+    align-self: flex-end;
+   
+    
+}
 
 /* Footer */
 .footer{
@@ -125,23 +139,15 @@ html, body {
 *********** Blocks ***********
 */
 
-#nav-home {
+#nav-global-container {
     margin-top: 40px;
    
 }
 
-.nav-home-1 {
-    background-color: white;
-    width: -moz-fit-content;
-    width: fit-content;
-}
-
-.nav-home-2 {
-    margin-left: 100px;
+.nav-global-content {
     
-    
+   
 }
-
 
 .nav-home-title a {
     font-size: 120px;
@@ -160,19 +166,16 @@ html, body {
 
 }
 
-#nav-global {
-    margin-top: 40px;
-   
+#nav-global-container {
+    
 }
 
 .nav-global-1 {
-    
-    width: -moz-fit-content;
-    width: fit-content;
+  
 }
 
 .nav-global-2 {
-    margin-left: 0px;
+   
 }
 
 
