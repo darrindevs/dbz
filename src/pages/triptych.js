@@ -21,7 +21,7 @@ const TriptychPage = () => {
       <main>
         <Row id="triptych">
           <Col id="" md className='col-1'>
-            <NavGlobal />
+            
             <Moe />
           </Col>
           <Col md>
