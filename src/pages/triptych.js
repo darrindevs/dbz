@@ -25,8 +25,8 @@ const TriptychPage = () => {
             <Moe />
           </Col>
           <Col md>
-            <div className='about-content'>
-              <h1>Triptych</h1>
+            <div className='triptych-content'>
+              <h2 className='triptych-title'>Triptych</h2>
               <h3 className='mt-5 mb-3'>PLAYWRIGHT BIO</h3>
               <p>Born in Portland Maine, raised in Philadelphia, 
               she lives in Los Angeles where she teaches 

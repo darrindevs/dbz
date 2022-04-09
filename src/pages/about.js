@@ -9,7 +9,10 @@ import Seo from "../components/seo"
 import { Row } from 'react-bootstrap'
 import { Col } from 'react-bootstrap'
 
-import NavGlobal from "../components/nav-global"
+//import NavGlobal from "../components/nav-global"
+import Moe from "../components/moe"
+import Dorie from "../components/dorie"
+
 
 // Step 2: Define your component
 const AboutPage = () => {
@@ -17,12 +20,13 @@ const AboutPage = () => {
     <Layout>
         <Seo title="About" />
       <main>
-        <Row id="about">
-          <Col md className='col-1 d-flex justify-content-end'>
-            <NavGlobal />
+        <Row id="triptych">
+          <Col id="" md className='col-1'>
+            <Moe />
           </Col>
           <Col md>
-            <div className='about-content'>
+            <div className='triptych-content'>
+              <h2 className='triptych-title'>About</h2>
               <h3 className='mt-5 mb-3'>PLAYWRIGHT BIO</h3>
               <p>Born in Portland Maine, raised in Philadelphia, 
               she lives in Los Angeles where she teaches 
@@ -72,8 +76,11 @@ const AboutPage = () => {
                 based and documentary work I do and teach now.        
               </p>
             </div>
+            <div id="moe-footer"></div>
           </Col>
-          <Col md></Col>
+          <Col md>
+              <Dorie />
+          </Col>
         </Row>
       </main>
     </Layout>
