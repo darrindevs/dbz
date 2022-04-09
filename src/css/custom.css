@@ -58,44 +58,9 @@ html, body {
   /* About */
 
  
-  #moe { 
-    background: url("https://zno.s3.us-west-1.amazonaws.com/moe_589.png") no-repeat center bottom fixed; 
-    /*background: url("https://zno.s3.us-west-1.amazonaws.com/moe_765.png") no-repeat center center fixed;*/
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-color: var(--black);
-    background-position: bottom;
-    height: 100vw;
-  } 
+  
   
   /* Triptych */
-
-#moe-container {
-    /*display: flex;
-    height: 80%;*/
-    background-image: url(
-    "https://zno.s3.us-west-1.amazonaws.com/moe_1145.png");
-    height: 100%;
-    background-color: #ededed;
-}
-
-/*#moe-img {
-    display: inline-block;
-    align-self: flex-end;
-}*/
-
-#dorie-container {
-    /*display: flex;
-    height:;*/
-    background-image: url(
-    "https://zno.s3.us-west-1.amazonaws.com/dorie_1145.png");
-    height: 100%;
-    background-repeat: no-repeat;
-    background-color: #ededed;
-
-}
 
 
 /* Footer */
@@ -244,6 +209,77 @@ html, body {
 
 
 
+/* 
+*********** Media Queries ***********
+*/
 
+/* Desktop View - uses Contain */
+@media (min-width: 1200px) { 
+    
+#moe-container {
+    /*display: flex;
+    height: 80%;*/
+    background-image: url(
+    "https://zno.s3.us-west-1.amazonaws.com/moe_1145.png");
+    height: 100%;
+    background-color: #ededed;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
 
+#dorie-container {
+    /*display: flex;
+    height:;*/
+    background-image: url(
+    "https://zno.s3.us-west-1.amazonaws.com/dorie_1145.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-color: #ededed;
+    background-position: bottom;
+    background-size: cover;
+}
+}
 
+/* Mobile View View - uses Contain */
+@media (max-width: 1200px) { 
+ 
+#moe-container {
+    /*display: flex;
+    height: 80%;*/
+    background-image: url(
+    "https://zno.s3.us-west-1.amazonaws.com/moe_1145.png");
+    height: 100%;
+    background-color: #ededed;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+
+#dorie-container {
+    /*display: flex;
+    height:;*/
+    background-image: url(
+    "https://zno.s3.us-west-1.amazonaws.com/dorie_1145.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-color: #ededed;
+    background-position: bottom;
+    background-size: contain;
+    
+
+}
+
+}
+
+@media (max-width: 768px) { 
+    #moe-container {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) { 
+    .navbar-toggler {
+        display: none;
+    }
+}

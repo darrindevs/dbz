@@ -11,7 +11,7 @@ import { Col } from 'react-bootstrap'
 
 const Moe = () => (
     <div id="moe-container" className="">
-     
+     <NavGlobal />
     </div>
     
   );

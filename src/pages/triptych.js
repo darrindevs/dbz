@@ -9,9 +9,10 @@ import Seo from "../components/seo"
 import { Row } from 'react-bootstrap'
 import { Col } from 'react-bootstrap'
 
-import NavGlobal from "../components/nav-global"
+//import NavGlobal from "../components/nav-global"
 import Moe from "../components/moe"
 import Dorie from "../components/dorie"
+
 
 // Step 2: Define your component
 const TriptychPage = () => {
@@ -75,26 +76,8 @@ const TriptychPage = () => {
                 The work I did in all of these groups goes into the community 
                 based and documentary work I do and teach now.        
               </p>
-              <p>Playwriting isn’t a solitary activity for me. I started out 
-                working in groups, with groups, about groups.  <a href="#">Lee Worley</a>
-                a founder of the <a href="#">Open Theater</a>formed an ensemble to perform 
-                my first play at the Washington Square Methodist Church
-                with months of rehearsal and everyone playing every role. 
-                Then with the Theater of Man in San Francisco we wrote 
-                and performed collectively. In a rehearsal room at the 
-                <a href="#">Mark Taper Forum</a>in Los Angeles I wrote two plays a year 
-                to tour the schools with a seven member company directed
-                by John Dennis meeting six days a week for physical work, 
-                improv, and theater games to inspire my research and writing.
-                At the Taper a few years later I got to work with <a href="#">Victoria Ann Lewis</a> 
-                in the Other Voices Project to dramaturg, research, and edit 
-                a collective play by writers and theater artists with disabilities.  
-                With Susan Loewenberg, Bonnie Banfield, Barbara Ling and
-                Judith Blahnik we developed a theater workshop in California prisons
-                and expanded it to become a company: <a href="#">L.A. Theaterworks</a>.
-                The work I did in all of these groups goes into the community 
-                based and documentary work I do and teach now.        
-              </p>
+              
+             
               
             </div>
           </Col>
