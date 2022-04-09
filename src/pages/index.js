@@ -22,6 +22,7 @@ const IndexPage = () => (
         
       
       </Row>
+     
   </Layout>
 )
 
