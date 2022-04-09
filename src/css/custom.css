@@ -55,6 +55,17 @@ html, body {
     height: 100vw;
   }
 
+
+  /* Plays */
+
+#plays-list {
+    
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
   
   /* Triptych - this is template for the moe-dorie pages */
 
