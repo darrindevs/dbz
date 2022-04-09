@@ -71,11 +71,20 @@ html, body {
 }
   
   
-  /* About */
+/* About */
 
  
-  
-  
+
+/* Contact - under Media Queries */
+
+#contact-form {
+    
+    
+}
+
+.spacer {
+    
+}
 
 
 
@@ -108,28 +117,17 @@ html, body {
     --white: #ffffff;
   }
 
-/*.col-1 {
-    background-color: lightgray;
-    
-}
-
-.col-2 {
-    background-color: rgb(201, 197, 197);
+.col-1 {
+   
     
 }
 
 .col-3 {
-    background-color: rgb(156, 154, 154);
-   
-} 8?
-
-.row-1 {
-    background-color: blue;
-}
-
-.row-2 {
     
-}
+   
+} 
+
+
 
 /* 
 *********** Blocks ***********
@@ -255,7 +253,10 @@ html, body {
     background-position: bottom;
     background-size: cover;
 }
+
 }
+
+
 
 /* Mobile View View - uses Contain */
 @media (max-width: 1200px) { 
@@ -283,6 +284,7 @@ html, body {
     background-position: bottom;
     background-size: contain;
 }
+
 
 }
 

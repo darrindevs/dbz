@@ -8,8 +8,14 @@ import Seo from "../components/seo"
 
 import { Row } from 'react-bootstrap'
 import { Col } from 'react-bootstrap'
+import { Form } from 'react-bootstrap'
+import { Button } from 'react-bootstrap'
 
-import NavGlobal from "../components/nav-global"
+//import NavGlobal from "../components/nav-global"
+import Moe from "../components/moe"
+import Dorie from "../components/dorie"
+import ContactForm from "../components/contact-form"
+
 
 // Step 2: Define your component
 const ContactPage = () => {
@@ -17,19 +23,20 @@ const ContactPage = () => {
     <Layout>
         <Seo title="Contact" />
       <main>
-        <Row id="about">
-          <Col md className='col-1 d-flex justify-content-end'>
-            <NavGlobal />
+        <Row id="triptych">
+          <Col id="" md className='col-1'>
+            <Moe />
           </Col>
           <Col md>
-            <div className='contact-content'>
-              <h3 className='mt-5 mb-3'>Contact Page</h3>
-              <p>We will put a form here.  
-              </p>
-              
+            <div className='triptych-content'>
+              <h2 className='triptych-title'>Contact</h2>
+              <ContactForm />
             </div>
+            <div id="moe-footer"></div>
           </Col>
-          <Col md></Col>
+          <Col md className='col-3'>
+              <Dorie />
+          </Col>
         </Row>
       </main>
     </Layout>
