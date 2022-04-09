@@ -1,3 +1,5 @@
+
+
 <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
@@ -6,6 +8,9 @@
       alt="A Gatsby astronaut"
       style={{ marginBottom: `1.45rem` }}
     />
+
+
+
 
 
 
