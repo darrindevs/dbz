@@ -9,24 +9,20 @@ import Seo from "../components/seo"
 import { Row } from 'react-bootstrap'
 import { Col } from 'react-bootstrap'
 
-//import NavGlobal from "../components/nav-global"
-import Moe from "../components/moe"
-import Dorie from "../components/dorie"
-
+import NavGlobal from "../components/nav-global"
 
 // Step 2: Define your component
-const TriptychPage = () => {
+const TriptychAltPage = () => {
   return (
     <Layout>
-        <Seo title="Triptych" />
+        <Seo title="About" />
       <main>
-        <Row id="triptych">
-          <Col id="" md className='col-1'>
-            <Moe />
+        <Row id="about">
+          <Col md className='col-1 d-flex justify-content-end'>
+            <NavGlobal />
           </Col>
           <Col md>
             <div className='about-content'>
-              <h1>Triptych</h1>
               <h3 className='mt-5 mb-3'>PLAYWRIGHT BIO</h3>
               <p>Born in Portland Maine, raised in Philadelphia, 
               she lives in Los Angeles where she teaches 
@@ -76,11 +72,8 @@ const TriptychPage = () => {
                 based and documentary work I do and teach now.        
               </p>
             </div>
-            <div id="moe-footer"></div>
           </Col>
-          <Col md>
-              <Dorie />
-          </Col>
+          <Col md></Col>
         </Row>
       </main>
     </Layout>
@@ -89,4 +82,4 @@ const TriptychPage = () => {
 }
 
 // Step 3: Export your component
-export default TriptychPage
+export default TriptychAltPage
