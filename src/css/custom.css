@@ -27,18 +27,6 @@ html, body {
 
 /* Index */
 
-/* https://css-tricks.com/perfect-full-page-background-image/ */
-#home { 
-    background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat center center fixed; 
-    /*background: url("https://zno.s3.us-west-1.amazonaws.com/moe_765.png") no-repeat center center fixed;*/
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-color: var(--background);
-    background-position: 100% 92%;
-    height: 100vw;
-  }
 
 
   /* About */
@@ -147,6 +135,14 @@ ul {
 .navbar-light {
     background-color: var(--background);
 }
+
+.brando {
+    font-size: 36px;
+    line-height: 36px;
+    color: var(--red) !important;
+    text-decoration: none;
+}
+
 
 #nav-global-container {
     margin-top: 40px;
@@ -335,4 +331,44 @@ ul {
     .navbar-brand {
         display: none;
     }
+}
+
+/* Home Page Queries */
+@media (min-width: 880px) { 
+/* https://css-tricks.com/perfect-full-page-background-image/ */
+#home { 
+    background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat center center fixed; 
+    /*background: url("https://zno.s3.us-west-1.amazonaws.com/moe_765.png") no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: var(--background);
+    background-position: 100% 92%;
+    height: 100vw;
+    padding-top: 50px;
+  }
+}
+
+@media (max-width: 880px) { 
+
+#home { 
+background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat center right fixed; 
+   /* Set rules to fill background */
+  min-height: 100%;
+ 
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  padding-top: 50px;
+
+    
+  }
+
 }
