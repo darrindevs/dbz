@@ -22,10 +22,10 @@ const ContactPage = () => {
         <Seo title="Contact" />
       <main>
         <Row id="triptych">
-          <Col id="" md className='col-1'>
+          <Col id="" lg={{ span: 4, offset: 0 }} className='col-1'>
             <Moe />
           </Col>
-          <Col md>
+          <Col lg={{ span: 5, offset: 0 }}>
             <div className='triptych-content'>
               <h2 className='triptych-title'>Contact</h2>
               <ContactForm />
@@ -39,7 +39,7 @@ const ContactPage = () => {
             </div>
             <div id="moe-footer"></div>
           </Col>
-          <Col md>
+          <Col lg={{ span: 3, offset: 0 }}>
               <Dorie />
           </Col>
         </Row>
