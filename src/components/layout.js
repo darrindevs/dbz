@@ -12,7 +12,10 @@ import { useStaticQuery, graphql } from "gatsby"
 
 //import Header from "./header"
 //import NavDark from "./nav-dark"
-import NavLight from "./nav-light"
+//import NavLight from "./nav-light"
+import NavAlt from "./nav-alt"
+//import NavOffCanvas from "./nav-off-canvas"
+//import Example from "./example"
 import Footer from "./footer"
 //import "./layout.css"  
 // 👆 replaced with bootstrap minified 👇
@@ -44,7 +47,7 @@ const Layout = ({ children }) => {
       */}
       
       {/* Custom Navbar */}
-      {NavLight}
+      {NavAlt}
       {/* Custom Container */}
       <Container fluid>
           <main>

@@ -232,6 +232,15 @@ ul {
 }
 
 
+#toggle-nav {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: var(--white);
+    min-width: 100%;
+}
+
 /* 
 *********** Exceptions ***********
 */
@@ -376,6 +385,13 @@ background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat
 
   
 
+}
+
+/* Hode #toggle-nav */
+@media (min-width: 992px) { 
+    #toggle-nav {
+        display: none;
+    }
 }
 
 @media (max-width: 500px) { 
