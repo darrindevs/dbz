@@ -231,14 +231,22 @@ ul {
     text-decoration: none;
 }
 
-
 #toggle-nav {
+    background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat left fixed; 
+    /*background: url("https://zno.s3.us-west-1.amazonaws.com/moe_765.png") no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: var(--background);
+    background-position: 100% 92%;
+    height: 100vw;
+    padding: 20px;
     margin-top: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    background-color: var(--white);
-    min-width: 100%;
+}
+
+.navbar-toggler {
+    margin-right: 10px;;
 }
 
 /* 
