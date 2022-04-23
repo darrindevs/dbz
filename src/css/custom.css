@@ -366,9 +366,24 @@ background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat
   top: 0;
   /*left: 0;*/
 
-  padding-top: 50px;
-
-    
+  padding-top: 50px;    
   }
+
+  .nav-home-title a {
+    font-size: 80px;
+    line-height: 65px;
+    color: var(--red);
+    text-decoration: none;
+}
+
+
+.nav-home-link {
+    font-size: 24px;
+    background-color: white;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 5px;
+
+}
 
 }

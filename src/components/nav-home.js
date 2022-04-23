@@ -6,7 +6,6 @@ const NavHome = () => (
     <div id="nav-home">
         <div className="nav-home-1">
             <h1 className="nav-home-title"><Link className="nav-home-link-lg" to="/"><span>Doris</span><br></br><span>Baizley</span></Link></h1>
-            
         </div>
         <div className="nav-home-2">
             <h2 className="nav-home-link link-about"><Link className="nav-home-link-sm" to="/about">About</Link></h2>
