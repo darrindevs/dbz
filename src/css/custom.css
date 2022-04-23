@@ -139,8 +139,12 @@ ul {
 .brando {
     font-size: 36px;
     line-height: 36px;
-    color: var(--red) !important;
+    font-weight: 500;
+    background-color: var(--red);
+    color: var(--white) !important;
     text-decoration: none;
+    padding: 5px;
+
 }
 
 
@@ -159,6 +163,7 @@ ul {
     line-height: 95px;
     color: var(--red);
     text-decoration: none;
+    
 }
 
 
@@ -369,21 +374,23 @@ background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat
   padding-top: 50px;    
   }
 
-  .nav-home-title a {
-    font-size: 80px;
-    line-height: 65px;
-    color: var(--red);
-    text-decoration: none;
-}
-
-
-.nav-home-link {
-    font-size: 24px;
-    background-color: white;
-    width: -moz-fit-content;
-    width: fit-content;
-    padding: 5px;
+  
 
 }
 
+@media (max-width: 500px) { 
+    .nav-home-title a {
+        font-size: 80px;
+        line-height: 65px;
+        color: var(--red);
+        text-decoration: none;
+    }
+    
+    .nav-home-link {
+        font-size: 24px;
+        background-color: white;
+        width: -moz-fit-content;
+        width: fit-content;
+        padding: 5px;
+    }
 }
