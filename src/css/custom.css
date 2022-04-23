@@ -364,7 +364,7 @@ background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat
   /* Set up positioning */
   position: fixed;
   top: 0;
-  left: 0;
+  /*left: 0;*/
 
   padding-top: 50px;
 
