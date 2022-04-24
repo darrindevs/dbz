@@ -12,6 +12,7 @@ import { Col } from 'react-bootstrap'
 //import NavGlobal from "../components/nav-global"
 import Moe from "../components/moe"
 import Dorie from "../components/dorie"
+import FooterText from "../components/footer-text"
 
 
 // Step 2: Define your component
@@ -76,7 +77,8 @@ const AboutPage = () => {
                 based and documentary work I do and teach now.        
               </p>
             </div>
-            <div id="moe-footer"></div>
+            <div id="moe-footer">
+            </div>
           </Col>
           <Col lg={{ span: 3, offset: 0 }}>
               <Dorie />

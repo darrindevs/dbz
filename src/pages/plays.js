@@ -22,7 +22,7 @@ const PlaysPage = () => {
         <Seo title="Plays" />
       <main>
         <Row id="triptych">
-          <Col id="" lg={{ span: 4, offset: 0 }} className='col-1'>
+          <Col id="" lg={{ span: 4, offset: 0 }}>
             <Moe />
           </Col>
           <Col lg={{ span: 5, offset: 0 }}>

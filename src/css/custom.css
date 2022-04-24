@@ -58,11 +58,11 @@ ul {
   /* Triptych - this is template for the moe-dorie pages */
 
   #triptych {
-      
+     
   }
   
   .triptych-title {
-
+    padding-top: 30px;
   }
 
   .triptych-content {
@@ -89,13 +89,14 @@ ul {
 
 /* Footer */
 .footer{
-    margin-top: 1rem;
+   
     padding: 1rem;
-    background-color: rgb(235, 195, 64);
+    background-color: var(--background);
     position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
+    
   }
 
 /* 
@@ -116,16 +117,9 @@ ul {
     --white: #ffffff;
   }
 
-.col-1 {
-   
-    
+a {
+    color: var(--red);
 }
-
-.col-3 {
-    
-   
-} 
-
 
 
 /* 
@@ -149,13 +143,17 @@ ul {
 
 
 #nav-global-container {
-    margin-top: 40px;
+    margin-top: 30px;
    
 }
 
 .nav-global-content {
     
    
+}
+
+#nav-home {
+    position: fixed; /* keep it from moving on scroll */
 }
 
 .nav-home-title a {
@@ -332,8 +330,9 @@ ul {
         height: 25%;
         background-color: #ededed;
         background-repeat: no-repeat;
-        background-position: center;
+        background-position: top;
         background-size: contain;
+        
         }
 }
 
@@ -369,6 +368,7 @@ ul {
     background-position: 100% 92%;
     height: 100vw;
     padding-top: 50px;
+    
   }
 }
 

@@ -17,9 +17,7 @@ const PlaysList = () => (
                   <li><h5><a href="#">Play</a></h5></li>
                   <li><h5><a href="#">Play</a></h5></li>
                   <li><h5><a href="#">Play</a></h5></li>
-                  <li><h5><a href="#">Play</a></h5></li>
-                  <li><h5><a href="#">Play</a></h5></li>
-                  <li><h5><a href="#">Play</a></h5></li>
+                 
                 </ul>
               </div>
   );

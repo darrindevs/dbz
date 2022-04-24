@@ -11,7 +11,7 @@ import { Link } from 'gatsby'
 import NavMobile from "../components/nav-mobile"
 
 const NavAlt = (
-    <Navbar bg="" expand="lg" className="navbar-light mb-5">
+    <Navbar bg="" expand="lg" className="navbar-light">
     <Navbar.Brand href="/" className="ms-3 brando"><span>Doris</span><br></br><span>Baizley</span></Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">

@@ -51,7 +51,7 @@ const PlaysTemplatePage = () => {
         
       </Col>
       <Col lg={{ span: 2, offset: 0 }}>
-          col 2
+          
       </Col>
     </Row>
   </main>
