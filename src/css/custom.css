@@ -129,6 +129,8 @@ ul {
     
   }
 
+  
+
 /* 
 *********** Utilities ***********
 */
@@ -176,6 +178,7 @@ a {
     color: var(--white) !important;
     text-decoration: none;
     padding: 5px;
+    font-family: 'Bebas Neue', cursive;
 
 }
 
@@ -370,6 +373,7 @@ a {
         background-repeat: no-repeat;
         background-position: top;
         background-size: contain;
+        
         
         }
 }
