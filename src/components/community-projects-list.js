@@ -9,16 +9,14 @@ const CommunityProjectsList = () => (
 </p>
     </div>
     <div id="projects-list" className='mt-5'>
-                <ul>
-                  <li><h5><a href="#">Project</a></h5></li>
-                  <li><h5><a href="#">Project</a></h5></li>
-                  <li><h5><a href="#">Project</a></h5></li>
-                  <li><h5><a href="#">Project</a></h5></li>
-                  <li><h5><a href="#">Project</a></h5></li>
-                  <li><h5><a href="#">Project</a></h5></li>
-                 
-                </ul>
-              </div>
+      <p className="cp-content mb-3"><a href="#" target="blank">PH*Reaks: The Hidden History Of People With Disabilities</a></p>
+      <p className="cp-content mb-3"><a href="#" target="blank">One Day Sarah House: Living And Dreaming In Hospice</a></p>
+      <p className="cp-content mb-3"><a href="#" target="blank">Changing Lives, Changing L.A. </a></p>
+      <p className="cp-content mb-3"><a href="#" target="blank">Change Is What We Do    </a></p>
+      <p className="cp-content mb-3"><a href="#" target="blank">Spirit Moves: Life and Works of the Sisters of St. Joseph of Orange</a></p>
+      <p className="cp-content mb-3"><a href="#" target="blank">Voices Of Justice</a>, LMU</p>
+      
+    </div>
     
     </>
     

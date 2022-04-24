@@ -5,13 +5,10 @@ import { Link } from "gatsby"
 
 const StoryEditingList = () => (
     <div id="story-editing-list" className='mt-5'>
-       
         <div>
             <img src="https://zno.s3.us-west-1.amazonaws.com/story_editing_1.JPG" className="thumbnail me-3 mb-3" alt="Story Editing"></img>
-            <img src="https://zno.s3.us-west-1.amazonaws.com/story_editing_2.JPG" className="thumbnail me-3" alt="Story Editing"></img>
-            <img src="https://zno.s3.us-west-1.amazonaws.com/story_editing_3.jpg" className="thumbnail me-3" alt="Story Editing"></img>
-            
-           
+            <img src="https://zno.s3.us-west-1.amazonaws.com/story_editing_2.JPG" className="thumbnail me-3 mb-3" alt="Story Editing"></img>
+            <img src="https://zno.s3.us-west-1.amazonaws.com/story_editing_3.jpg" className="thumbnail me-3 mb-3" alt="Story Editing"></img>
         </div>
         <div id="story-editing-list-content">
             <h5 className="story-title mt-5 mb-3"><strong>Emile Norman by His Own Design</strong></h5>
