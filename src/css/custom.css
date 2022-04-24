@@ -30,6 +30,15 @@ h6 {
 }
 
 /* 
+*********** images ***********
+*/
+
+.thumbnail {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+/* 
 *********** Composition ***********
 */
 
@@ -198,8 +207,8 @@ a {
 }
 
 .nav-home-title a {
-    font-size: 120px;
-    line-height: 95px;
+    font-size: 200px;
+    line-height: 150px;
     color: var(--red);
     text-decoration: none;
     
