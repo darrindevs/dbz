@@ -25,7 +25,7 @@ const AboutPage = () => {
           <Col id="" lg={{ span: 4, offset: 0 }} className='col-1'>
             <Moe />
           </Col>
-          <Col lg={{ span: 5, offset: 0 }}>
+          <Col lg={{ span: 5, offset: 0 }} className="bump">
             <div className='triptych-content'>
               <h2 className='triptych-title'>About</h2>
               <h3 className='mt-5 mb-3'>PLAYWRIGHT BIO</h3>

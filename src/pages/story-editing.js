@@ -25,7 +25,7 @@ const StoryEditingPage = () => {
           <Col id="" lg={{ span: 4, offset: 0 }} className='col-1'>
             <Moe />
           </Col>
-          <Col lg={{ span: 5, offset: 0 }}>
+          <Col lg={{ span: 5, offset: 0 }} className="bump">
             <div className='triptych-content'>
               <h2 className='triptych-title'>Story Editing Documentary Films</h2>
               <StoryEditingList />

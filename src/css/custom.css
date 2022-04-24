@@ -1,3 +1,33 @@
+/* 
+*********** Fonts ***********
+*/
+
+/* https://fonts.google.com/specimen/Bebas+Neue?query=Bebas+Neue#standard-styles */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h3 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h4 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h5 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h6 {
+    font-family: 'Bebas Neue', cursive;
+}
 
 /* 
 *********** Composition ***********
@@ -118,9 +148,17 @@ ul {
   }
 
 a {
-    color: var(--red);
+    color: var(--blue);
 }
 
+.dynamo {
+    color: var(--red);
+    font-weight: 500;
+}
+
+.bump {
+    margin-bottom: 100px;
+}
 
 /* 
 *********** Blocks ***********
