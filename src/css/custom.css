@@ -38,6 +38,11 @@ h6 {
     max-height: 200px;
 }
 
+.pl-img {
+    max-width: 40px;
+    max-height: 40px;
+}
+
 /* 
 *********** Composition ***********
 */
@@ -84,6 +89,11 @@ html, body {
 
 
   /* Plays */
+
+#play {
+    padding-bottom: 100px;
+  }
+
 
 #plays-list {
     
