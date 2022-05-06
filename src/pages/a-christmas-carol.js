@@ -21,14 +21,25 @@ const AChristmasCarolPage = () => {
       <Col id="" lg={{ span: 4, offset: 0 }} className='col-1'>
         <NavGlobal/>
       </Col>
-      <Col mdlg={{ span: 6, offset: 0 }}>
+      <Col lg={{ span: 6, offset: 0 }}>
         <div className='play-content mb-5'>
           <h3 className='play-title mb-3'>A Christmas Carol</h3>
           {/* Media Obect */ }
           <div className="play-media-object">
             <div className="play-img-container">
-              <img className="align-self-start me-3 mb-3 play-img" src="https://via.placeholder.com/150" alt="Generic placeholder image"></img>
-              <img className="align-self-start mb-3 play-img" src="https://via.placeholder.com/150" alt="Generic placeholder image"></img>
+              <Row>
+                <Col>
+                  <img className="me-3 mb-3 play-img" src="https://zno.s3.us-west-1.amazonaws.com/a_christmas_carol.jpg" alt="A Christmas Carol"></img>
+                </Col>
+                <Col>
+                  <img className=" play-img rainey" src="https://zno.s3.us-west-1.amazonaws.com/a_christmas_carol_2.png" alt="A Christmas Carol"></img>
+                  <p className="play-meta mt-1 mb-3 rainey"><small>David Rainey, Todd Waite. <br></br>Photo by Lynn Lane.</small></p>
+                </Col>
+                <Col>
+                </Col>
+                <Col>
+                </Col>
+              </Row>
             </div>
             
             
@@ -45,11 +56,7 @@ const AChristmasCarolPage = () => {
             <p className="play-meta mt-3"><strong>Press:</strong> <i>…the choice of the Alley Theater to do this script was a good one for where theatre is today. We are all coming back to our lives, picking up the pieces of where we left off before a pandemic separated us into isolation. Now the hearts that will remain are the hearts who have shown up again, today, without a chain, without lead characters, but with a willingness to figure it out together and in love. That is the spirit of theater.</i><strong>   Broadway World,  Dec. 2021</strong> </p>
             <p className="play-meta mt-3"><strong>Publisher: Dramatists Play Service</strong></p>
           </div>
-          {/* Additional Content */}
-          <div className="flex-shrink-0 play-img-container">
-              <img class="align-self-start mr-3 mt-5 play-img" src="https://via.placeholder.com/300" alt="Generic placeholder image"></img>
-          </div>
-          <h6 className="play-meta mt-3">A caption</h6>
+          
         </div>
         
       </Col>

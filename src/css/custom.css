@@ -107,6 +107,19 @@ html, body {
    margin-bottom: 1rem;
 }
 
+.play-img {
+    max-width: 200px;
+    min-height: 173px;
+}
+
+.rainey {
+   
+}
+
+small {
+    font-size: 11px;
+}
+
 ul {
     text-decoration: none;
     list-style: none;
