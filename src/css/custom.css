@@ -99,6 +99,10 @@ html, body {
     
 }
 
+.plays-list-content {
+   margin-bottom: 1rem;
+}
+
 ul {
     text-decoration: none;
     list-style: none;
