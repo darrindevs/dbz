@@ -23,12 +23,15 @@ const AChristmasCarolPage = () => {
       </Col>
       <Col mdlg={{ span: 6, offset: 0 }}>
         <div className='play-content mb-5'>
-          <h3 className='play-title mt-5 mb-3'>A Christmas Carol</h3>
+          <h3 className='play-title mb-3'>A Christmas Carol</h3>
           {/* Media Obect */ }
           <div className="play-media-object">
             <div className="play-img-container">
-              <img className="align-self-start mr-3 play-img" src="https://via.placeholder.com/150" alt="Generic placeholder image"></img>
+              <img className="align-self-start me-3 mb-3 play-img" src="https://via.placeholder.com/150" alt="Generic placeholder image"></img>
+              <img className="align-self-start mb-3 play-img" src="https://via.placeholder.com/150" alt="Generic placeholder image"></img>
             </div>
+            
+            
             <div className="play-description mt-3">
             Thanks to their miserly stage manager, a down-on-its-luck theater company has to produce their annual Dickens play without a Scrooge (quit), a Tiny Tim (fired) or a chain for Marley’s Ghost (lost). How they find a way to make the show go on transforms them all as they invent their way through Christmas Past, Christmas Present and Christmas Future.  A fast, fresh, moving, and family-friendly 60 minute classic.  
             </div>

@@ -94,6 +94,10 @@ html, body {
     padding-bottom: 100px;
   }
 
+.play-title {
+    margin-top: 1.7rem;
+}
+
 
 #plays-list {
     
@@ -115,7 +119,8 @@ ul {
   }
   
   .triptych-title {
-    padding-top: 30px;
+    margin-top: 1.7rem;
+
   }
 
   .triptych-content {
