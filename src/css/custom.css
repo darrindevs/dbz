@@ -182,6 +182,7 @@ ul {
     /*--background: #1d5754;*/
     --primary: #000;
     --orange: #c55910;
+    --yellow: #ffff00;
     --blue: #4472c4;
     --green: #538135;
     --red: #ff0400;
@@ -287,7 +288,7 @@ a {
 
 
 .link-about a {
-  color: var(--orange);
+  color: var(--yellow);
   text-decoration: none;
 }
 
@@ -302,7 +303,7 @@ a {
 }
 
 .link-story-editing a {
-    color: var(--red);
+    color: var(--orange);
     text-decoration: none;
 }
 
