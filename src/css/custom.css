@@ -178,15 +178,15 @@ ul {
 
 :root {
     
-    --background: #ededed;
+    --background: #bfbfbf;
     /*--background: #1d5754;*/
-    --primary: black;
-    --orange: orange;
-    --blue: blue;
-    --green: green;
-    --red: red;
-    --black: black;
-    --gray: rgb(53, 52, 52);
+    --primary: #000;
+    --orange: #c55910;
+    --blue: #4472c4;
+    --green: #538135;
+    --red: #ff0400;
+    --black: #000000;
+    --gray: #bfbfbf;
     --white: #ffffff;
   }
 
