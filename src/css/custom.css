@@ -346,10 +346,13 @@ a {
 #moe-container {
     /*display: flex;
     height: 80%;*/
+    /*background-image: url(
+    "https://zno.s3.us-west-1.amazonaws.com/moe_1145.png");*/
     background-image: url(
-    "https://zno.s3.us-west-1.amazonaws.com/moe_1145.png");
+    "https://zno.s3.us-west-1.amazonaws.com/1145_ts_fff_moe.png");
     height: 90%;
-    background-color: #ededed;
+    /*background-color: #ededed;*/
+    background-color: lightgray;
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -358,11 +361,14 @@ a {
 #dorie-container {
     /*display: flex;
     height:;*/
+    /*background-image: url(
+    "https://zno.s3.us-west-1.amazonaws.com/dorie_1145.png");*/
     background-image: url(
-    "https://zno.s3.us-west-1.amazonaws.com/dorie_1145.png");
+    "https://zno.s3.us-west-1.amazonaws.com/1145_ts_fff_dorie.png");
     height: 95%;
     background-repeat: no-repeat;
-    background-color: #ededed;
+    /*background-color: #ededed;*/
+    background-color: lightgray;
     background-position: bottom;
     background-size: cover;
 }
