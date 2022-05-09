@@ -51,7 +51,7 @@ h6 {
 
 html, body {
     height:100%;
-    background-color: #ededed;
+    background-color: var(--background);
 }
 
 
@@ -352,7 +352,7 @@ a {
     "https://zno.s3.us-west-1.amazonaws.com/1145_ts_fff_moe.png");
     height: 90%;
     /*background-color: #ededed;*/
-    background-color: lightgray;
+    background-color: var(--background);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -368,7 +368,7 @@ a {
     height: 95%;
     background-repeat: no-repeat;
     /*background-color: #ededed;*/
-    background-color: lightgray;
+    background-color: var(--background);
     background-position: bottom;
     background-size: cover;
 }
@@ -384,9 +384,9 @@ a {
     /*display: flex;
     height: 80%;*/
     background-image: url(
-    "https://zno.s3.us-west-1.amazonaws.com/moe_1145.png");
+    "https://zno.s3.us-west-1.amazonaws.com/1145_ts_fff_moe.png");
     height: 95%;
-    background-color: #ededed;
+    background-color: var(--background);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: contain;
@@ -399,7 +399,7 @@ a {
     "https://zno.s3.us-west-1.amazonaws.com/dorie_1145.png");
     height: 97%;
     background-repeat: no-repeat;
-    background-color: #ededed;
+    background-color: var(--background);
     background-position: bottom;
     background-size: contain;
 }
@@ -414,9 +414,9 @@ a {
     
     #moe-footer {
         background-image: url(
-        "https://zno.s3.us-west-1.amazonaws.com/moe_589.png");
+        "https://zno.s3.us-west-1.amazonaws.com/589_ts_fff_moe.png");
         height: 25%;
-        background-color: #ededed;
+        background-color: var(--background);
         background-repeat: no-repeat;
         background-position: top;
         background-size: contain;
