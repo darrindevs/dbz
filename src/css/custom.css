@@ -286,16 +286,16 @@ a {
 }
 
 .nav-home-title-alt-md a {
-    font-size: 150px;
-    line-height: 130px;
+    font-size: 120px;
+    line-height: 100px;
     color: var(--blue);
     text-decoration: none;
     
 }
 
 .nav-home-link-alt-md {
-    font-size: 60px;
-    line-height: 50px;
+    font-size: 40px;
+    line-height: 30px;
     width: -moz-fit-content;
     width: fit-content;
     padding: 5px;
@@ -303,16 +303,16 @@ a {
 }
 
 .nav-home-title-alt-sm a {
-    font-size: 150px;
-    line-height: 130px;
+    font-size: 100px;
+    line-height: 80px;
     color: var(--green);
     text-decoration: none;
     
 }
 
 .nav-home-link-alt-sm {
-    font-size: 60px;
-    line-height: 50px;
+    font-size: 40px;
+    line-height: 30px;
     width: -moz-fit-content;
     width: fit-content;
     padding: 5px;
@@ -600,7 +600,7 @@ a {
     }
 }
 
-@media (min-width: 1000px) { 
+@media (max-width: 1400px) and (min-width: 1000px) { 
     
     #nav-home-alt {
         display: none;
@@ -610,5 +610,14 @@ a {
     }
 }
 
+@media (max-width: 1000px) { 
+    
+    #nav-home-alt {
+        display: none;
+    }
+    #nav-home-alt-md {
+        display: none;
+    }
+}
 
 
