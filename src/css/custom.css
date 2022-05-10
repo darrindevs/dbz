@@ -600,7 +600,7 @@ a {
     }
 }
 
-@media (max-width: 1400px) and (min-width: 1000px) { 
+@media (max-width: 1400px) and (min-width: 800px) { 
     
     #nav-home-alt {
         display: none;
@@ -610,7 +610,7 @@ a {
     }
 }
 
-@media (max-width: 1000px) { 
+@media (max-width: 800px) { 
     
     #nav-home-alt {
         display: none;
