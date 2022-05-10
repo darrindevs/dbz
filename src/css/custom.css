@@ -239,6 +239,18 @@ a {
     position: fixed; /* keep it from moving on scroll */
 }
 
+#nav-home-alt {
+    position: fixed; /* keep it from moving on scroll */
+}
+
+#nav-home-alt-md {
+    position: fixed; /* keep it from moving on scroll */
+}
+
+#nav-home-alt-sm {
+    position: fixed; /* keep it from moving on scroll */
+}
+
 .nav-home-title a {
     font-size: 200px;
     line-height: 150px;
@@ -265,6 +277,40 @@ a {
 }
 
 .nav-home-link-alt {
+    font-size: 60px;
+    line-height: 50px;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 5px;
+
+}
+
+.nav-home-title-alt-md a {
+    font-size: 150px;
+    line-height: 130px;
+    color: var(--blue);
+    text-decoration: none;
+    
+}
+
+.nav-home-link-alt-md {
+    font-size: 60px;
+    line-height: 50px;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 5px;
+
+}
+
+.nav-home-title-alt-sm a {
+    font-size: 150px;
+    line-height: 130px;
+    color: var(--green);
+    text-decoration: none;
+    
+}
+
+.nav-home-link-alt-sm {
     font-size: 60px;
     line-height: 50px;
     width: -moz-fit-content;
@@ -543,3 +589,26 @@ a {
         padding: 5px;
     }
 }
+
+/* Home Page Nav Queries */
+@media (min-width: 1400px) { 
+    #nav-home-alt-sm {
+        display: none;
+    }
+    #nav-home-alt-md {
+        display: none;
+    }
+}
+
+@media (min-width: 1000px) { 
+    
+    #nav-home-alt {
+        display: none;
+    }
+    #nav-home-alt-sm {
+        display: none;
+    }
+}
+
+
+

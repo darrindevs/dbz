@@ -4,11 +4,11 @@ import { Row } from 'react-bootstrap'
 import { Col } from 'react-bootstrap'
 
 const NavHomeAlt = () => (
-    <div id="nav-home">
+    <div id="nav-home-alt">
         <Row>
         <Col sm={{ }}>
             <div>
-                <h1 className="nav-home-title-alt"><Link className="nav-home-link-lg" to="/"><span>Doris</span><br></br><span>Baizley</span></Link></h1>
+                <h1 className="nav-home-title-alt"><Link className="nav-home-link-lg" to="/"><span>Alt</span><br></br><span>Baizley</span></Link></h1>
             </div>
         </Col>
         <Col sm={{ }}>
