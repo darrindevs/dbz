@@ -182,7 +182,7 @@ ul {
     /*--background: #1d5754;*/
     --primary: #000;
     --orange: #c55910;
-    --yellow: #ffff00;
+    --yellow: #fcba03;
     --blue: #3f4a75;
     --green: #538135;
     --red: #ff0400;
@@ -248,7 +248,7 @@ a {
 }
 
 #nav-home-alt-sm {
-    position: fixed; /* keep it from moving on scroll */
+     /* position: fixed; keep it from moving on scroll */
 }
 
 .nav-home-title a {
@@ -288,7 +288,7 @@ a {
 .nav-home-title-alt-md a {
     font-size: 120px;
     line-height: 100px;
-    color: var(--blue);
+    color: var(--red);
     text-decoration: none;
     
 }
@@ -305,14 +305,14 @@ a {
 .nav-home-title-alt-sm a {
     font-size: 100px;
     line-height: 80px;
-    color: var(--green);
+    color: var(--red);
     text-decoration: none;
     
 }
 
 .nav-home-link-alt-sm {
-    font-size: 40px;
-    line-height: 30px;
+    font-size: 30px;
+    line-height: 20px;
     width: -moz-fit-content;
     width: fit-content;
     padding: 5px;

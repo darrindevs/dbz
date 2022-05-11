@@ -6,7 +6,7 @@ import { Col } from 'react-bootstrap'
 const NavHomeAltMd = () => (
     <div id="nav-home-alt-md">
         <div>
-            <h1 className="nav-home-title-alt-md"><Link className="nav-home-link-lg" to="/"><span>Alt MD</span><br></br><span>Baizley</span></Link></h1>
+            <h1 className="nav-home-title-alt-md"><Link className="nav-home-link-lg" to="/"><span>Doris</span><br></br><span>Baizley</span></Link></h1>
         </div>
         <div>
             <h2 className="nav-home-link-alt-md link-about"><Link className="nav-home-link-sm" to="/about">About</Link></h2>

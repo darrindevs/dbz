@@ -8,7 +8,7 @@ const NavHomeAlt = () => (
         <Row>
         <Col sm={{ }}>
             <div>
-                <h1 className="nav-home-title-alt"><Link className="nav-home-link-lg" to="/"><span>Alt</span><br></br><span>Baizley</span></Link></h1>
+                <h1 className="nav-home-title-alt"><Link className="nav-home-link-lg" to="/"><span>Doris</span><br></br><span>Baizley</span></Link></h1>
             </div>
         </Col>
         <Col sm={{ }}>
