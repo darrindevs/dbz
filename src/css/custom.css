@@ -184,6 +184,7 @@ ul {
     --orange: #c55910;
     --yellow: #fcba03;
     --blue: #3f4a75;
+    --blue2: blue;
     --green: #538135;
     --red: #ff0400;
     --black: #000000;
@@ -192,7 +193,7 @@ ul {
   }
 
 a {
-    color: var(--blue);
+    color: var(--blue2);
 }
 
 .dynamo {
@@ -349,7 +350,7 @@ a {
 
 
 .link-about a {
-  color: var(--yellow);
+  color: var(--black);
   text-decoration: none;
 }
 
@@ -369,7 +370,7 @@ a {
 }
 
 .link-contact a {
-    color: var(--black);
+    color: var(--yellow);
     text-decoration: none;
 }
 
