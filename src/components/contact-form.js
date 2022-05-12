@@ -3,7 +3,7 @@ import * as React from "react"
 const ContactForm = () => (
     <>
     <div id="contact-form" className="">
-        <p className="mt-5 mb-5">Some intro text about the Contact Form. Still need to wire the form up to accept submissions.</p>
+        
         {/* Form */}
         {/*  <!-- Bootstrap 5 starter form --> */}
         <form id="contactForm">

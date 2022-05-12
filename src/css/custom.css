@@ -181,19 +181,21 @@ ul {
     --background: #bfbfbf;
     /*--background: #1d5754;*/
     --primary: #000;
-    --orange: #c55910;
-    --yellow: #fcba03;
+    --orange: #da6213;
+    --yellow: #ebba34;
+    --chromeyellow: #FFA534;
     --blue: #3f4a75;
     --blue2: blue;
     --green: #538135;
     --red: #ff0400;
     --black: #000000;
-    --gray: #bfbfbf;
+    --background: #d1d1d1;
     --white: #ffffff;
   }
 
 a {
     color: var(--blue2);
+    font-weight: bold;
 }
 
 .dynamo {
