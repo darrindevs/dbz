@@ -1,8 +1,5 @@
-# DBZ
+# dorisbaizley.com
 
-A professional portfolio for DBZ
+A professional portfolio for Doris Baizley
 
 
-Notes
-
-- /triptych-alt shows what Moe-Dorie img would look like as entire background img vs split into columns
