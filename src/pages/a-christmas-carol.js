@@ -31,10 +31,7 @@ const AChristmasCarolPage = () => {
                 <Col>
                   <img className="me-3 mb-3 play-img" src="https://zno.s3.us-west-1.amazonaws.com/a_christmas_carol.jpg" alt="A Christmas Carol"></img>
                 </Col>
-                <Col>
-                  <img className=" play-img rainey" src="https://zno.s3.us-west-1.amazonaws.com/a_christmas_carol_2.png" alt="A Christmas Carol"></img>
-                  <p className="play-meta mt-1 mb-3 rainey"><small>David Rainey, Todd Waite. <br></br>Photo by Lynn Lane.</small></p>
-                </Col>
+               
                 <Col>
                 </Col>
                 <Col>
@@ -50,7 +47,7 @@ const AChristmasCarolPage = () => {
           </div>
           {/* Media Obect */ }
           <div className="play-meta-container">
-            <p className="play-meta mt-5"><strong>World premiere:</strong> Mark Taper, 1977.</p>
+            <p className="play-meta mt-3"><strong>World premiere:</strong> Mark Taper, 1977.</p>
             <p className="play-meta mt-3"><strong>Productions include:</strong> The Cleveland Playhouse, National Theater of the Deaf, The Semafor Theater,  Prague.</p>
             <p className="play-meta mt-3"><strong>Most Recent:</strong> The Alley Theater, Houston TX., 2021.</p>
             <p className="play-meta mt-3"><strong>Press:</strong> <i>…the choice of the Alley Theater to do this script was a good one for where theatre is today. We are all coming back to our lives, picking up the pieces of where we left off before a pandemic separated us into isolation. Now the hearts that will remain are the hearts who have shown up again, today, without a chain, without lead characters, but with a willingness to figure it out together and in love. That is the spirit of theater.</i><strong>   Broadway World,  Dec. 2021</strong> </p>

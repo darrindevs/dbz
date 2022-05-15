@@ -181,18 +181,21 @@ ul {
     --background: #bfbfbf;
     /*--background: #1d5754;*/
     --primary: #000;
-    --orange: #c55910;
-    --yellow: #ffff00;
+    --orange: #da6213;
+    --yellow: #ebba34;
+    --chromeyellow: #FFA534;
     --blue: #3f4a75;
+    --blue2: blue;
     --green: #538135;
     --red: #ff0400;
     --black: #000000;
-    --gray: #bfbfbf;
+    --background: #d1d1d1;
     --white: #ffffff;
   }
 
 a {
-    color: var(--blue);
+    color: var(--blue2);
+    font-weight: bold;
 }
 
 .dynamo {
@@ -239,6 +242,18 @@ a {
     position: fixed; /* keep it from moving on scroll */
 }
 
+#nav-home-alt {
+    position: fixed; /* keep it from moving on scroll */
+}
+
+#nav-home-alt-md {
+    position: fixed; /* keep it from moving on scroll */
+}
+
+#nav-home-alt-sm {
+     /* position: fixed; keep it from moving on scroll */
+}
+
 .nav-home-title a {
     font-size: 200px;
     line-height: 150px;
@@ -247,10 +262,60 @@ a {
     
 }
 
-
 .nav-home-link {
     font-size: 36px;
     background-color: white;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 5px;
+
+}
+
+.nav-home-title-alt a {
+    font-size: 150px;
+    line-height: 130px;
+    color: var(--red);
+    text-decoration: none;
+    
+}
+
+.nav-home-link-alt {
+    font-size: 60px;
+    line-height: 50px;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 5px;
+
+}
+
+.nav-home-title-alt-md a {
+    font-size: 120px;
+    line-height: 100px;
+    color: var(--red);
+    text-decoration: none;
+    
+}
+
+.nav-home-link-alt-md {
+    font-size: 40px;
+    line-height: 30px;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 5px;
+
+}
+
+.nav-home-title-alt-sm a {
+    font-size: 100px;
+    line-height: 80px;
+    color: var(--red);
+    text-decoration: none;
+    
+}
+
+.nav-home-link-alt-sm {
+    font-size: 30px;
+    line-height: 20px;
     width: -moz-fit-content;
     width: fit-content;
     padding: 5px;
@@ -271,24 +336,23 @@ a {
 
 
 .nav-global-title a {
-    font-size: 36px;
-    line-height: 36px;
+    font-size: 60px;
+    line-height: 50px;
     color: var(--red);
     text-decoration: none;
 }
 
 
 .nav-global-link {
-    font-size: 18px;
+    font-size: 24px;
+    line-height: 24px;
     width: -moz-fit-content;
     width: fit-content;
-    
-
 }
 
 
 .link-about a {
-  color: var(--yellow);
+  color: var(--black);
   text-decoration: none;
 }
 
@@ -308,7 +372,7 @@ a {
 }
 
 .link-contact a {
-    color: var(--black);
+    color: var(--yellow);
     text-decoration: none;
 }
 
@@ -397,7 +461,7 @@ a {
     /*display: flex;
     height:;*/
     background-image: url(
-    "https://zno.s3.us-west-1.amazonaws.com/dorie_1145.png");
+    "https://zno.s3.us-west-1.amazonaws.com/1145_ts_fff_dorie.png");
     height: 97%;
     background-repeat: no-repeat;
     background-color: var(--background);
@@ -448,14 +512,16 @@ a {
 @media (min-width: 880px) { 
 /* https://css-tricks.com/perfect-full-page-background-image/ */
 #home { 
-    background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat center center fixed; 
+    background: url("https://zno.s3.us-west-1.amazonaws.com/home_1069_938.png") no-repeat center center fixed; 
+    /*background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat center center fixed; */
+    
     /*background: url("https://zno.s3.us-west-1.amazonaws.com/moe_765.png") no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-color: var(--background);
-    background-position: 100% 92%;
+    background-position: 100% 85%;
     height: 100vw;
     padding-top: 50px;
     
@@ -465,18 +531,20 @@ a {
 @media (max-width: 880px) { 
 
 #home { 
-background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat center right fixed; 
-   /* Set rules to fill background */
-  min-height: 100%;
+    /*background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat center right fixed;*/
+    background: url("https://zno.s3.us-west-1.amazonaws.com/home_1069_938.png") no-repeat center right fixed; 
+    /* Set rules to fill background */
+    min-height: 100%;
  
-  /* Set up proportionate scaling */
-  width: 100%;
-  height: auto;
+    /* Set up proportionate scaling */
+    width: 100%;
+    height: auto;
 	
-  /* Set up positioning */
-  position: fixed;
-  top: 0;
-  /*left: 0;*/
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    background-position: left;
+    /*left: 0;*/
 
   padding-top: 50px;    
   }
@@ -499,6 +567,13 @@ background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat
         color: var(--red);
         text-decoration: none;
     }
+
+    .nav-home-title-alt a {
+        font-size: 80px;
+        line-height: 65px;
+        color: var(--red);
+        text-decoration: none;
+    }
     
     .nav-home-link {
         font-size: 24px;
@@ -507,4 +582,45 @@ background: url("https://zno.s3.us-west-1.amazonaws.com/dbz-home.jpg") no-repeat
         width: fit-content;
         padding: 5px;
     }
+
+    .nav-home-link-alt {
+        font-size: 24px;
+        background-color: white;
+        width: -moz-fit-content;
+        width: fit-content;
+        padding: 5px;
+    }
 }
+
+/* Home Page Nav Queries */
+@media (min-width: 1400px) { 
+    #nav-home-alt-sm {
+        display: none;
+    }
+    #nav-home-alt-md {
+        display: none;
+    }
+}
+
+@media (max-width: 1400px) and (min-width: 800px) { 
+    
+    #nav-home-alt {
+        display: none;
+    }
+    #nav-home-alt-sm {
+        display: none;
+    }
+}
+
+/* Mobile */
+@media (max-width: 800px) { 
+    
+    #nav-home-alt {
+        display: none;
+    }
+    #nav-home-alt-md {
+        display: none;
+    }
+}
+
+
