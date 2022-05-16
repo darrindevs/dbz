@@ -10,7 +10,7 @@ const PlaysList = () => (
       </div>
        {/* Play */}
        <div className="plays-list-content">
-        <a href="#" className="">Agnes Smedley, Our American Friend</a>
+        <a href="/agnes-smedley-our-american-friend" className="">Agnes Smedley, Our American Friend</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
