@@ -19,7 +19,7 @@ import StoryEditingList from "../components/story-editing-list"
 const StoryEditingPage = () => {
   return (
     <Layout>
-        <Seo title="Story Editing" />
+        <Seo title="Story Editing Documentary Films" />
       <main>
         <Row id="triptych">
           <Col id="" lg={{ span: 4, offset: 0 }} className='col-1'>
