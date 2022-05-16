@@ -18,16 +18,16 @@ const StoryEditingList = () => (
             </p>
             <a href="https://www.amazon.com/Emile-Norman-His-Own-Design/dp/B0018QOIW6" target="blank">link</a>
             <h5 className="story-title mt-4 mb-3"><strong>As Nutayunean, We Still Live Here</strong></h5>
-            <p className="story-content mb-3">
+            <p className="story-content mb-1">
             dir Anne Makepeace. The quest of the Wampanoag Indians to reclaim the forgotten language of their people. 
             </p>
-            <p className="story-content mb-3"><i>Winner of the Moving Mountains Prize, Mountain Film Festival, Telluride, CO.</i>
+            <p className="story-content mb-1"><i>Winner of the Moving Mountains Prize, Mountain Film Festival, Telluride, CO.</i>
             </p>
             <p className="story-content mb-3"><i>Winner of the Inspiration Award at the Full Frame Documentary Film Festival, Durham NC. </i>
             </p>
             <a href="https://www.makepeaceproductions.com/wampfilm.html" target="_blank">link</a>
             <h5 className="story-title mt-4 mb-3"><strong>Rebels With A Cause</strong></h5>
-            <p className="story-content mb-3">
+            <p className="story-content mb-1">
             by Nancy Kelly and Kenji Yamamoto ; narrated by Frances McDormand, the story of the schemers and dreamers who fought to keep developers from taking over the breathtaking landscape of Point Reyes National Seashore and the Golden Gate National Park. 
             </p>
             <p className="story-content mb-3"><i>Winner of the Audience Award, Mill Valley Film Festival. </i>

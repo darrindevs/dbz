@@ -29,8 +29,8 @@ const AboutPage = () => {
             <div className='triptych-content'>
               {/*<h2 className='triptych-title'>About</h2>*/}
               <h3 className='play-title mb-3'>PLAYWRIGHT BIO</h3>
-              <p>Born in Portland Maine, raised in Philadelphia, 
-              she lives in Los Angeles where she teaches 
+              <p>Doris Baizley (playwright) was born in Portland Maine, raised in Philadelphia, 
+              and lives in Los Angeles where she teaches 
               at Loyola Marymount University. She is a founding 
               member of LA Theaterworks (originally Artists in Prison). 
               She was resident playwright at the Mark Taper Forum’s 
@@ -39,7 +39,7 @@ const AboutPage = () => {
               Her plays have been developed and produced 
               at the Mark Taper Forum, ACT Seattle, 
               the Alabama Shakespeare Festival, History Theater, 
-              The Salt Lake Acting Company and    
+              The Salt Lake Acting Company and
               internationally at the Semafor Theater in Prague 
               and the Icon Theater in Taipei. Her most recent 
               work is community-based theater and documentary 

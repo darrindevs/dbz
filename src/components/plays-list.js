@@ -30,7 +30,7 @@ const PlaysList = () => (
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Sex Sting</a>
+        <a href="#" className="">Sex Sting (with Susan Raffanti)</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
@@ -54,19 +54,13 @@ const PlaysList = () => (
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Tears of Rage</a>
-      </div>
-      {/* Play */}
-      <div className="plays-list-content">
-        <a href="#" className="">Mimi's Guide</a>
-      </div>
-      {/* Play */}
-      <div className="plays-list-content">
-        <a href="#" className="">May</a>
-      </div>
-      {/* Play */}
-      <div className="plays-list-content">
-        <a href="#" className="">Mary Dyer Hanged In Boston</a>
+        <h6>Vietnam Three:</h6>
+        <ul>
+            <li><a href="#" className="">Tears of Rage</a></li>
+            <li><a href="#" className="">Mimi's Guide</a></li>
+            <li><a href="#" className="">May</a></li>
+          </ul>
+        
       </div>
     </div>
   );
