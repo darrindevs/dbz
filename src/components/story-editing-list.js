@@ -10,11 +10,9 @@ const StoryEditingList = () => (
             <img src="https://zno.s3.us-west-1.amazonaws.com/story_editing_3.jpg" className="thumbnail me-3 mb-3" alt="Story Editing"></img>
         </div>
         <div id="story-editing-list-content">
-            <h5 className="story-title mt-4 mb-3"><strong>Emile Norman by His Own Design</strong></h5>
-            <p className="story-content mb-1">
-            dir. Will Parrinello, ed, Mary Lampson, pro Jill Eikenberry and Michael Tucker.  A portrait of the artist Emile Norman, through seven decades of a changing art scene and turbulent times for a gay man in America.  
-            </p>
-            <p className="story-content mb-3"><i>Winner of the HBO Audience Award, Miami Gay and Lesbian Film Festival, 2007. </i>
+            
+            <p className="story-content mb-1"><span className="story-title me-2"><strong>Emile Norman by His Own Design</strong></span>
+            dir. Will Parinello, ed. Mary Lampson, produced by Jill Eikenberry and Michael Tucker. A portrait of the artist Emile Norman, through seven decades of a changing art scene and turbulent times for a gay man in America.<i> Winner of the HBO Audience Award, Miami Gay and Lesbian Film Festival, 2007. </i>
             </p>
             <a href="https://www.amazon.com/Emile-Norman-His-Own-Design/dp/B0018QOIW6" target="blank">link</a>
             <h5 className="story-title mt-4 mb-3"><strong>As Nutayunean, We Still Live Here</strong></h5>

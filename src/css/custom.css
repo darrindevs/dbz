@@ -394,6 +394,13 @@ a {
     margin-right: 10px;;
 }
 
+
+.story-title {
+    /*text-decoration: underline;*/
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
 /* 
 *********** Exceptions ***********
 */
