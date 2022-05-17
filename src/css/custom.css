@@ -406,7 +406,7 @@ a {
 }
 
 .caption {
-    margin-top: -10;
+    -top: -10;
 }
 
 /* 

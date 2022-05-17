@@ -14,51 +14,51 @@ const PlaysList = () => (
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Daniel In Babylon</a>
+        <a href="/daniel-in-babylon" className="">Daniel In Babylon</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Glass Mountain</a>
+        <a href="/glass-mountain" className="">Glass Mountain</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Mrs. California</a>
+        <a href="/mrs-california" className="">Mrs. California</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Prairie Fire</a>
+        <a href="/prairie-fire" className="">Prairie Fire</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Sex Sting (with Susan Raffanti)</a>
+        <a href="/sex-sting" className="">Sex Sting (with Susan Raffanti)</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Shiloh Rules</a>
+        <a href="/shiloh-rules" className="">Shiloh Rules</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Sister Kenny's Children</a>
+        <a href="/sister-kennys-children" className="">Sister Kenny's Children</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">Sisters of Peace</a>
+        <a href="/sisters-of-peace" className="">Sisters of Peace</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">The Dyer's Hand</a>
+        <a href="the-dyers-hand" className="">The Dyer's Hand</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="#" className="">THe Mikado Project (with Ken Narasaki</a>
+        <a href="/the-mikado-project" className="">THe Mikado Project (with Ken Narasaki</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">
         <h6>Vietnam Three:</h6>
         <ul>
-            <li><a href="#" className="">Tears of Rage</a></li>
-            <li><a href="#" className="">Mimi's Guide</a></li>
-            <li><a href="#" className="">May</a></li>
+            <li><a href="/tears-of-rage" className="">Tears of Rage</a></li>
+            <li><a href="/mimis-guide" className="">Mimi's Guide</a></li>
+            <li><a href="/may" className="">May</a></li>
           </ul>
         
       </div>
