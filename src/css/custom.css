@@ -430,7 +430,7 @@ a {
     /*background-image: url(
     "https://zno.s3.us-west-1.amazonaws.com/moe_1145.png");*/
     background-image: url(
-    "https://zno.s3.us-west-1.amazonaws.com/1145_ts_fff_moe.png");
+    "https://zno.s3.us-west-1.amazonaws.com/1145_ts_bfbfbf_moe.png");
     height: 90%;
     /*background-color: #ededed;*/
     background-color: var(--background);
@@ -495,7 +495,7 @@ a {
     
     #moe-footer {
         background-image: url(
-        "https://zno.s3.us-west-1.amazonaws.com/589_ts_fff_moe.png");
+        "https://zno.s3.us-west-1.amazonaws.com/589_ts_bfbfbf_moe.png");
         height: 25%;
         background-color: var(--background);
         background-repeat: no-repeat;
