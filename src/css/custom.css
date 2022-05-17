@@ -3,7 +3,8 @@
 */
 
 /* https://fonts.google.com/specimen/Bebas+Neue?query=Bebas+Neue#standard-styles */
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&display=swap');
 
 h1 {
     font-family: 'Bebas Neue', cursive;
@@ -648,7 +649,7 @@ a {
 #fs-frm optgroup,
 #fs-frm label,
 #fs-frm #card-element:disabled {
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Open Sans', sans-serif;
   font-size: 100%;
   color: inherit;
   border: none;
