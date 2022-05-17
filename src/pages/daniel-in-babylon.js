@@ -54,8 +54,7 @@ const DanielInBabylonPage = () => {
             <p className="play-meta mt-3"><strong>Publication:</strong> WEST COAST PLAYS 19/20, 1986</p>
             <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/m2rdntvee2qffkq/DANIEL%20IN%20BABYLON.pdf?dl=0
             '>Download</a></p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/4k6v91k52qf0nwc/Song%20of%20the%20Three%20%28rehearsal%20tape%29%2C%20by%20Patrick%20Winningham%2C%20For%20Daniel%20in%20Babylon.mp3?dl=0 
-            '>Song of the Three (reahersal tape)</a></p>
+           
           </div>
           
         </div>
