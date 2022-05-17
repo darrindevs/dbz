@@ -405,6 +405,10 @@ a {
     text-decoration: underline;
 }
 
+.caption {
+    margin-top: -10;
+}
+
 /* 
 *********** Exceptions ***********
 */
