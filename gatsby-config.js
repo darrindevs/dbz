@@ -32,8 +32,17 @@ module.exports = {
           
       },
     },
+    
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    // custom add - clicky https://www.skypack.dev/view/gatsby-plugin-clicky
+    // to complete the npm install may need this https://stackoverflow.com/questions/64936044/fix-the-upstream-dependency-conflict-installing-npm-packages
+    {
+      resolve: `gatsby-plugin-clicky`,
+      options: {
+        siteId: '101366674'
+      }
+    }
   ],
 }
