@@ -401,6 +401,10 @@ a {
     font-size: 20px;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
 /* 
 *********** Exceptions ***********
 */
