@@ -12,7 +12,7 @@ const StoryEditingList = () => (
         <div id="story-editing-list-content">
             {/* Story */}
             <p className="story-content mb-1"><span className="story-title me-2"><strong>Sansón and Me</strong></span>
-            dir. Rodrigo Reyes. Told through dramatic reenactments, Sansón and Me recreates a life of multilayered border crossing as told by Sansón to his
+            dir. Rodrigo Reyes, producer Su Kim.. Told through dramatic reenactments, Sansón and Me recreates a life of multilayered border crossing as told by Sansón to his
             interpreter-turned-friend, ﬁlmmaker Rodrigo Reyes. 
             <i> A Tribeca Film Festival selection, 2022.</i>
             </p>
