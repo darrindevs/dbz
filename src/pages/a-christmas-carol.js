@@ -52,7 +52,7 @@ const AChristmasCarolPage = () => {
             <p className="play-meta"><strong>Most recent:</strong> The Alley Theater, Houston, TX., 2021</p>
            
             <p className="play-meta mt-3"><strong>Press:</strong> <i>…the choice of the Alley Theater to do this script was a good one for where theatre is today. We are all coming back to our lives, picking up the pieces of where we left off before a pandemic separated us into isolation. Now the hearts that will remain are the hearts who have shown up again, today, without a chain, without lead characters, but with a willingness to figure it out together and in love. That is the spirit of theater.</i><strong>   Broadway World,  Dec. 2021</strong> </p>
-            <p className="play-meta mt-3"><strong>Publisher: </strong><a href='https://www.dramatists.com/'>Dramatists Play Service</a></p>
+            <p className="play-meta mt-3"><strong>Publisher: </strong><a href='https://www.dramatists.com/cgi-bin/db/single.asp?key=954' target="_blank">Dramatists Play Service</a></p>
           </div>
           
         </div>

@@ -29,7 +29,7 @@ const PlaysPage = () => {
             <div className='triptych-content'>
               <h2 className='triptych-title'>Plays</h2>
               <PlaysList />
-              <p className='mt-3'><i>View or download a PDF of a script from each play page. Please contact the playwright with questions regarding rights and royalties.</i></p>
+              <p className='mt-3'><i>View or download a PDF of a script from each play page. </i></p>
               <p className='invisible'>Irony typewriter cliche, tofu lo-fi venmo hot chicken portland DIY fingerstache kitsch taxidermy pitchfork disrupt. Four dollar toast forage iPhone 90's pour-over. Bespoke pickled thundercats snackwave. Migas fingerstache raclette, four loko health goth gochujang beard bicycle rights freegan shabby chic. Normcore post-ironic umami cronut four loko authentic, celiac cornhole. Fanny pack williamsburg blog chia twee blue bottle poke. Butcher tattooed forage vape distillery, unicorn +1.
               </p>
               

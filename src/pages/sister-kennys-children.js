@@ -29,7 +29,9 @@ const SisterKennysChildrenPage = () => {
             <div className="play-img-container">
               <Row>
                 <Col>
-                  <img className="me-3 mb-3 play-img" alt="Sister Kenny's Children" src="https://zno.s3.us-west-1.amazonaws.com/sister_kennys_children.jpg"></img>
+                  <img className="me-3 mb-3 play-img" alt="Sister Kenny's Children" src="https://zno.s3.us-west-1.amazonaws.com/sister_kennys_children.jpg"></img><br></br>
+                  <small className='credit'>Claudia Wilkins as Sister Kenny
+</small>
                 </Col>
                
                 <Col>
@@ -45,7 +47,7 @@ const SisterKennysChildrenPage = () => {
           </div>
           {/* Media Obect */ }
           <div className="play-meta-container">
-          <p className="play-meta mt-3"><strong>Premiere: </strong><span className='underline'>Histor Theater</span>, St. Paul, MN, 2010</p>
+          <p className="play-meta mt-3"><strong>Premiere: </strong><span className='underline'>History Theater</span>, St. Paul, MN, 2010</p>
            
             <p className="play-meta mt-3"><strong>Press:</strong> <i>Wilkens and Baizley cast an unflinching eye at Kenny’s personal recesses and the toll such a solitary journey must have taken -- the self-doubt and constant humiliation by the establishment… The piece helps us understand Kenny's flesh and blood far better than simple documentation.  </i><strong> Minneapolis Star-Tribune,  Jan 25, 2010</strong> </p>
            

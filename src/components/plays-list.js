@@ -4,6 +4,8 @@ import { Link } from "gatsby"
 
 const PlaysList = () => (
     <div id="plays-list" className='mt-5'>
+      <p className=""><strong>Please contact the playwright with questions regarding rights and royalties.</strong>  
+</p>
       {/* Play */}
       <div className="plays-list-content">
         <a href="/a-christmas-carol" className="">A Christmas Carol</a>
@@ -50,7 +52,7 @@ const PlaysList = () => (
       </div>
       {/* Play */}
       <div className="plays-list-content">
-        <a href="/the-mikado-project" className="">THe Mikado Project (with Ken Narasaki</a>
+        <a href="/the-mikado-project" className="">The Mikado Project (with Ken Narasaki)</a>
       </div>
       {/* Play */}
       <div className="plays-list-content">

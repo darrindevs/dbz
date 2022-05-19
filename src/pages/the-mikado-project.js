@@ -15,7 +15,7 @@ import NavGlobal from '../components/nav-global'
 const TheMikadoProjectPage = () => {
   return (
     <Layout>
-    <Seo title="THE MIKADO PROJECT (with Ken Narasaki) " />
+    <Seo title="THE MIKADO PROJECT" />
   <main>
     <Row id="play">
       <Col id="" lg={{ span: 4, offset: 0 }} className='col-1'>
@@ -23,7 +23,7 @@ const TheMikadoProjectPage = () => {
       </Col>
       <Col lg={{ span: 6, offset: 0 }}>
         <div className='play-content mb-5'>
-          <h3 className='play-title mb-3'>THE MIKADO PROJECT (with Ken Narasaki) </h3>
+          <h3 className='play-title mb-3'>THE MIKADO PROJECT</h3>
           {/* Media Obect */ }
           <div className="play-media-object">
             <div className="play-img-container">
