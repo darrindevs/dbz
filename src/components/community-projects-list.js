@@ -13,7 +13,7 @@ const CommunityProjectsList = () => (
             interpreter-turned-friend, ﬁlmmaker Rodrigo Reyes. 
             <i> A Tribeca Film Festival selection, 2022.</i>
             </p>
-            <a className="mb-3" href="https://itvs.org/films/sanson-and-me" target="blank">link</a>
+            <a className="mb-3" href="https://itvs.org/films/sanson-and-me" target="_blank">link</a>
         </div>
     </div>
     

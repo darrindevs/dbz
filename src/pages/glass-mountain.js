@@ -48,7 +48,7 @@ const GlassMountainPage = () => {
           {/* Media Obect */ }
           <div className="play-meta-container">
           <p className="play-meta mt-3"><strong>Development: </strong>Ojai Playwrights’ Festival, Ojai CA.</p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/crig1f8f9tqzjl9/Glass%20Mountain.pdf?dl=0
+            <p className="play-meta mt-3"><a target="_blank" href='https://www.dropbox.com/s/crig1f8f9tqzjl9/Glass%20Mountain.pdf?dl=0
             '>link</a></p>
           </div>
           

@@ -48,7 +48,7 @@ const TearsOfRagePage = () => {
           <p className="play-meta mt-3"><strong>World Premiere: </strong>A Contemporary Theater, Seattle, 1991</p>
           <p className="play-meta mt-3"><strong>Press:</strong> <i>Tears of Rage has the automatic, artless potency of a photo album. It is moving, troubling and powerful.</i><strong> Seattle Post Intelligencer
             </strong> </p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/xyabm88pldyoua0/TEARS%20OF%20RAGE%20%282%29.pdf?dl=0'>link</a></p>
+            <p className="play-meta mt-3"><a target="_blank" href='https://www.dropbox.com/s/xyabm88pldyoua0/TEARS%20OF%20RAGE%20%282%29.pdf?dl=0'>link</a></p>
           </div>
         </div>
         

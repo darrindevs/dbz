@@ -46,7 +46,7 @@ const PrairieFirePage = () => {
           {/* Media Obect */ }
           <div className="play-meta-container">
           <p className="play-meta mt-3"><strong>Development: </strong>Mark Taper Forum Playwright’s Group</p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/04i95c6jdod1ejx/PRAIRIE%20FIRE.pdf?dl=0
+            <p className="play-meta mt-3"><a target="_blank" href='https://www.dropbox.com/s/04i95c6jdod1ejx/PRAIRIE%20FIRE.pdf?dl=0
             '>link</a></p>
           </div>
           

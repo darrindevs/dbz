@@ -51,7 +51,7 @@ const SisterKennysChildrenPage = () => {
            
             <p className="play-meta mt-3"><strong>Press:</strong> <i>Wilkens and Baizley cast an unflinching eye at Kenny’s personal recesses and the toll such a solitary journey must have taken -- the self-doubt and constant humiliation by the establishment… The piece helps us understand Kenny's flesh and blood far better than simple documentation.  </i><strong> Minneapolis Star-Tribune,  Jan 25, 2010</strong> </p>
            
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/xwg1h0gjfjz1lf3/Sister%20Kenny%27s%20Children.pdf?dl=0
+            <p className="play-meta mt-3"><a target="_blank" href='https://www.dropbox.com/s/xwg1h0gjfjz1lf3/Sister%20Kenny%27s%20Children.pdf?dl=0
 
             '>link</a></p>
            

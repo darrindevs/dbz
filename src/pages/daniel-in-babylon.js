@@ -52,7 +52,7 @@ const DanielInBabylonPage = () => {
             <p className="play-meta mt-3"><strong>International:</strong> Icon Theater, Taipei, Taiwan, 1990</p>
             <p className="play-meta mt-3"><strong>Press:</strong> <i>Daniel in Babylon is an hour of whirlwind children's theater made out of simple tools, fleshed out by nothing more than talent. Not only does it have action and a heartening grass roots moralism to it, it's full of theater ideas… real theater, for which no other entertainment form is an adequate substitute... designed to hook children on the live theater habit. </i><strong> Jack Viertel, L.A. Herald Examiner, 1986</strong> </p>
             <p className="play-meta mt-3"><strong>Publication:</strong> WEST COAST PLAYS 19/20, 1986</p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/m2rdntvee2qffkq/DANIEL%20IN%20BABYLON.pdf?dl=0
+            <p className="play-meta mt-3"><a target="_blank" href='https://www.dropbox.com/s/m2rdntvee2qffkq/DANIEL%20IN%20BABYLON.pdf?dl=0
             '>link</a></p>
            
           </div>
