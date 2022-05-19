@@ -48,7 +48,7 @@ const MimisGuidePage = () => {
           <div className="play-meta-container">
           <p className="play-meta mt-3"><strong>World Premiere: </strong> Fremont Center Theatre, South Pasadena. 2000</p>
           <p className="play-meta mt-3"><strong>Press:</strong> <i>Baizley writes passionately about the lingering effects of Vietnam. The questioning voice of Robert--a refugee success story--presents a different facet of America, challenging Waterman’s protest heroics and ideals.  </i><strong> L.A. Times</strong> </p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/lqdt07jwyal0qhr/Mimi%27s%20Guide.pdf?dl=0'>Download</a></p>
+            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/lqdt07jwyal0qhr/Mimi%27s%20Guide.pdf?dl=0'>link</a></p>
           </div>
         </div>
         

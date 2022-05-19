@@ -51,7 +51,7 @@ const SisterKennysChildrenPage = () => {
            
             <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/xwg1h0gjfjz1lf3/Sister%20Kenny%27s%20Children.pdf?dl=0
 
-            '>Download</a></p>
+            '>link</a></p>
            
           </div>
           

@@ -47,7 +47,7 @@ const MayPage = () => {
           {/* Media Obect */ }
           <div className="play-meta-container">
           <p className="play-meta mt-3"><strong><i>In development</i></strong></p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/ikkuedx1rn0vmt4/MAY.pdf?dl=0'>Download</a></p>
+            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/ikkuedx1rn0vmt4/MAY.pdf?dl=0'>link</a></p>
           </div>
         </div>
       </Col>

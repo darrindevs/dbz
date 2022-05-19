@@ -50,7 +50,7 @@ const SistersOfPeacePage = () => {
            
             <p className="play-meta mt-3"><strong>Press:</strong> <i>Do you find it hard to imagine how to engage, directly but civilly, with people who hold views you emphatically oppose? SISTERS OF PEACE. models that very thing… It's one of the ways that the play is immediately topical. Another is to track the way rage born of childhood trauma can be, with time and determination, transformed into righteous anger that fuels social activism. </i><strong> BROADWAY WORLD, March 27, 2019.</strong> </p>
            
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/c38qxm84gaqidft/SISTERS%20OF%20PEACE.pdf?dl=0'>Download</a></p>
+            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/c38qxm84gaqidft/SISTERS%20OF%20PEACE.pdf?dl=0'>link</a></p>
           </div>
         </div>
         

@@ -48,7 +48,7 @@ const TheDyersHandPage = () => {
           {/* Media Obect */ }
           <div className="play-meta-container">
           <p className="play-meta mt-3"><strong>Development: </strong><span className='underline'>River Stage</span>, Sacramento, CA, Loyola Marymount University, L.A. CA</p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/55x6xd0h16nmwgh/The%20Dyer%27s%20Hand.pdf?dl=0'>Download</a></p>
+            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/55x6xd0h16nmwgh/The%20Dyer%27s%20Hand.pdf?dl=0'>link</a></p>
           </div>
         </div>
         

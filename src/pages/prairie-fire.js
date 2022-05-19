@@ -47,7 +47,7 @@ const PrairieFirePage = () => {
           <div className="play-meta-container">
           <p className="play-meta mt-3"><strong>Development: </strong>Mark Taper Forum Playwright’s Group</p>
             <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/04i95c6jdod1ejx/PRAIRIE%20FIRE.pdf?dl=0
-            '>Download</a></p>
+            '>link</a></p>
           </div>
           
         </div>

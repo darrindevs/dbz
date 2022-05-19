@@ -57,7 +57,7 @@ const SexStingPage = () => {
             </strong> </p>
             
             <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/p5j0gn45g3cvlhm/SexSting.pdf?dl=0
-            '>Download</a></p>
+            '>link</a></p>
           </div>
         </div>
         

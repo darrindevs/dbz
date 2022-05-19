@@ -52,7 +52,7 @@ const TheMikadoProjectPage = () => {
           <p className="play-meta mt-3"><strong>Press:</strong> <i>Doris Baizley and Ken Narasaki’s world premiere musical, makes serious points about cultural stereotypes and the endemic racism of certain classics, in this case "The Mikado." However, the play's political context is sugar-coated subtext to what is, first and foremost, solid entertainment of a charmingly wacky stripe. </i><strong> Los Angeles Times, 2007
             </strong> </p>
             <p><i>Winner,  Pacific Rim Playwrights Award, Kuma Kahua Theater/University of Hawaii, 2008</i></p>
-            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/j5ufyqwtdui5seo/THE%20MIKADO%20PROJECT.pdf?dl=0'>Download</a></p>
+            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/j5ufyqwtdui5seo/THE%20MIKADO%20PROJECT.pdf?dl=0'>link</a></p>
           </div>
         </div>
         
