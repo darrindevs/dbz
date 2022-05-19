@@ -56,7 +56,7 @@ const SexStingPage = () => {
             <p className="play-meta mt-3"> <i>…acute psychological observation, reminiscent of Porfiry and Raskolnikov -- with, if anything, far more intense moral ambiguity.  </i><strong> Hollywood Reporter 3/7/2013 
             </strong> </p>
             
-            <p className="play-meta mt-3"><a target="_blank" href='https://www.dropbox.com/s/p5j0gn45g3cvlhm/SexSting.pdf?dl=0
+            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/p5j0gn45g3cvlhm/SexSting.pdf?dl=0
             '>link</a></p>
           </div>
         </div>

@@ -113,6 +113,11 @@ html, body {
     min-height: 173px;
 }
 
+.spirit-img {
+    max-width: 400px;
+    min-height: 173px;
+}
+
 .rainey {
    
 }

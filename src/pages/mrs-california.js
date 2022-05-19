@@ -53,7 +53,7 @@ const MrsCaliforniaPage = () => {
             <p className="play-meta mt-3"><i>CBS/Dramatists Guild Award</i></p>
             <p className="play-meta mt-3"><strong>Press:</strong> <i>Doris Baizley’s “Mrs. California” deftly strikes the first blow for feminism as comedy... It takes a long, unaffectionate look back at those silly contests about femininity ad absurdum--in this case the Mrs. California competition of 1955…It only hits you later that under all the fun are currents that could sink a ship. </i><strong> Los Angeles Times,  April 22, 1986</strong> </p>
             <p className="play-meta mt-3"><strong>Publisher</strong>: <a href='https://www.dramatists.com/cgi-bin/db/single.asp?key=1083
-            ' target="__blank">Dramatists Play Service</a></p>
+            ' target="_blank">Dramatists Play Service</a></p>
           </div>
           
         </div>

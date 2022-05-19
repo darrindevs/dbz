@@ -51,7 +51,7 @@ const AgnesSmedleyOurAmericanFriendPage = () => {
             <p className="play-meta mt-3"><strong>Premiere:</strong> Big Fork Playwrights Retreat, Bigfork MT.</p>
             <p className="play-meta mt-3"><strong>Press:</strong> <i>Doris Baizley hit bedrock with Agnes Smedley…with her square-dance instructions echoing in our ears: “Take the hand of the person next to you; if you get lost, keep moving forward; be bold in executing all calls; and always keep your head raised.” They’re the watchwords of a larger-than-life character who very nearly bursts the seams of this small-scale, finely wrought play.</i><strong> Variety, Oct 11, 1993
 </strong> </p>
-            <p className="play-meta mt-3"><a target="_blank" href='https://www.dropbox.com/s/ek99qmvl2z819bj/AGNES%20SMEDLEY%20OUR%20AMERICAN%20FRIEND.pdf?dl=0
+            <p className="play-meta mt-3"><a target="blank" href='https://www.dropbox.com/s/ek99qmvl2z819bj/AGNES%20SMEDLEY%20OUR%20AMERICAN%20FRIEND.pdf?dl=0
 '>link</a></p>
           </div>
           
