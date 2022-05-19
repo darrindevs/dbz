@@ -30,6 +30,8 @@ const PhreaksTheHiddenHistoryOfPeopleWithDisabilitiesPage = () => {
               <Row>
                 <Col>
                   <img className="me-3 mb-3 play-img" src="https://zno.s3.us-west-1.amazonaws.com/phreaks.png" alt="PH*REAKS: The Hidden History of People with Disabilities"></img>
+                  <br></br>
+                  <small className='caption'>clockwise from upper left: Bill Trzeciak, Richard Redlin, Barry Schwartz, Tamara Turner, Shari Weiser, John Pixley</small>
                  
                 </Col>
                
