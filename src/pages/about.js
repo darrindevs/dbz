@@ -48,7 +48,7 @@ const AboutPage = () => {
               <h3 className='mt-5 mb-3'>ORIGIN STORY</h3>
               <p>In fifth grade I invented playwriting. (You write down the character’s name, 
               then you write down the words they say). The play was the story of Sir Walter Raleigh. 
-              He puts his cloak over a muddle for Queen Elizabeth I to cross and she knights him. 
+              He puts his cloak over a puddle for Queen Elizabeth I to cross and she knights him. 
               But the next king doesn’t like him.  He orders Sir Walter’s head (a goateed basketball) to be cut off. 
               The ax falls. The head rolls into the audience.  A huge hit! 
               The play was so popular in our classroom it was moved to the auditorium. 

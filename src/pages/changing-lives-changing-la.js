@@ -44,7 +44,7 @@ const ChangingLivesChangingLAPage = () => {
             {/* Story */}
             <p className="story-content mt-3 mb-1"><span className="story-title me-2"><strong>Changing Lives, Changing L.A.</strong></span>
             (co-edited with Rose Portillo, produced by Vivian Rothstein). Dramatization of four oral histories from UNITE HERE Local 11, hotel and restaurant workers union.
-            Union members tell their experiences from first jobs to becoming union leaders, and the challenges and rewards of their commitment to the co-workers.
+            Union members tell their experiences from first jobs to becoming union leaders, and the challenges and rewards of their commitment to their co-workers.
             </p>
             <a className="mb-3" href="https://vimeo.com/636905254" target="_blank">video</a>
             <p className='mb-1 mt-3'>Script available for free use.</p>
