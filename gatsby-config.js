@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `Doris Baizley`,
-    description: ``,
-    author: `darrindevs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    description: `Playwright. Story Editor. Teacher. `,
+    author: `Dynamo.dev`,
+    siteUrl: `https://dorisbaizley.com`,
+    image: "/img.png",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
