@@ -41,7 +41,8 @@ const SexStingPage = () => {
             
             
             <div className="play-description mt-3">
-            Written in collaboration with criminal defense attorney Susan Raffanti, and based on transcripts from a real case, Sex Sting follows the course of an FBI online sting operation that becomes a complex relationship between the FBI agent and his target, John Doe, as the invented seduction turns into a friendship and a welcoming space for sharing troubles, life stories, advice and the kind of engagement with another person that neither man has in his “real life.” 
+            Drama. Two men on the border between fantasy and crime. For adult audiences.
+Written in collaboration with criminal defense attorney Susan Raffanti, and based on transcripts from a real case, Sex Sting follows the course of an FBI online sting operation that becomes a complex relationship between the FBI agent and his target, John Doe, as the invented seduction turns into a friendship and a welcoming space for sharing troubles, life stories, advice and the kind of engagement with another person that neither man has in his “real life.” 
              </div>
           </div>
           {/* Media Obect */ }

@@ -41,7 +41,7 @@ const MayPage = () => {
             
             
             <div className="play-description mt-3">
-            On an island in the eastern Aegean, Mimi, an aging peace activist  recently divorced from a Vietnamese-American poet, comes to bring home her estranged daughter May working on an archeological dig site. As their conflict escalates and a storm damages the site, they discover an ancient link between women and warfare that will move them forward with a new understanding of each other and the importance of their lives in the world.
+            A drama. Mother and daughter. The history of women and war. On an island in the eastern Aegean, Mimi, an aging peace activist  recently divorced from a Vietnamese-American poet, comes to bring home her estranged daughter May working on an archeological dig site. As their conflict escalates and a storm damages the site, they discover an ancient link between women and warfare that will move them forward with a new understanding of each other and the importance of their lives in the world.
              </div>
           </div>
           {/* Media Obect */ }

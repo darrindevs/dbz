@@ -41,7 +41,7 @@ const MimisGuidePage = () => {
             
             
             <div className="play-description mt-3">
-            The sensuality of Louisiana's humid, jasmine-scented air permeates this love triangle about three people who are haunted by the memories of the Vietnam war. 
+            A romance. The lasting impact of the Vietnam war on three Americans. The sensuality of Louisiana's humid, jasmine-scented air permeates this love triangle about three people who are haunted by the memories of the Vietnam war. 
              </div>
           </div>
           {/* Media Obect */ }

@@ -41,7 +41,7 @@ const ShilohRulesPage = () => {
             
             
             <div className="play-description mt-3">
-            Two Union nurses and two female Confederate refugees struggle to hold their ground at Shiloh National Military Park in a reenactment of 1868’s bloodiest Civil War battle. Opposing them all is Ranger Wilson, a Black woman park ranger who wants nothing to do with 1868. As things slip out of control, a supply and refreshment stand operator convinces her the only way to restore order is to go onto the field in a Union uniform. None of them comes out unwounded or unchanged - except for the Widow Beckwith and her supply cart, moving on to the next war game. A dark comedy with serious intent. 
+            A serious comedy. Six women at war. Two Union nurses and two female Confederate refugees struggle to hold their ground at Shiloh National Military Park in a reenactment of 1868’s bloodiest Civil War battle. Opposing them all is Ranger Wilson, a Black woman park ranger who wants nothing to do with 1868. As things slip out of control, a supply and refreshment stand operator convinces her the only way to restore order is to go onto the field in a Union uniform. None of them comes out unwounded or unchanged - except for the Widow Beckwith and her supply cart, moving on to the next war game. A dark comedy with serious intent. 
             </div>
             
           </div>

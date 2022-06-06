@@ -41,7 +41,7 @@ const MrsCaliforniaPage = () => {
             
             
             <div className="play-description mt-3">
-            1955. A housekeeping contest sponsored by the Southern California Gas Company pits four housewives against each other in sewing, cooking, ironing and "My Proudest Moment" in evening gown. Dot, an ex-Navy WAVE enters the contest with the help of her neighbor Babs, an ex-aircraft electrician. As the competition increases, Dot has to choose between taking the advice of her male Gas Company sponsor and losing her best friend – or losing the contest. A dark comedy exploring the dangers of women’s isolation and self-denial to fit the expectations of a rigid social structure.  
+            A feminist comedy. Women’s lives in post-World War II America. 1955. A housekeeping contest sponsored by the Southern California Gas Company pits four housewives against each other in sewing, cooking, ironing and "My Proudest Moment" in evening gown. Dot, an ex-Navy WAVE enters the contest with the help of her neighbor Babs, an ex-aircraft electrician. As the competition increases, Dot has to choose between taking the advice of her male Gas Company sponsor and losing her best friend – or losing the contest. A dark comedy exploring the dangers of women’s isolation and self-denial to fit the expectations of a rigid social structure.  
 
             </div>
             

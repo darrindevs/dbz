@@ -41,7 +41,7 @@ const AChristmasCarolPage = () => {
             
             
             <div className="play-description mt-3">
-            A down-on-its-luck theater company has to produce its annual Dickens play without a Scrooge (quit), a Tiny Tim (fired) or a chain for Marley’s Ghost (lost). How they find a way to make the show go on transforms them all as they invent their way through Christmas Past, Present and Future.  A fast, fresh, moving, and family-friendly 60 minute classic.  
+            A classic Christmas story for the whole family. A down-on-its-luck theater company has to produce its annual Dickens play without a Scrooge (quit), a Tiny Tim (fired) or a chain for Marley’s Ghost (lost). How they find a way to make the show go on transforms them all as they invent their way through Christmas Past, Present and Future.  A fast, fresh, moving, and family-friendly 60 minute classic.  
 
             </div>
             

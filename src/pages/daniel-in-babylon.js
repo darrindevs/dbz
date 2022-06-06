@@ -41,7 +41,7 @@ const DanielInBabylonPage = () => {
             
             
             <div className="play-description mt-3">
-            The bible tale as a contemporary story for young audiences. In retreat from the demands of his parents, teachers and coaches, Daniel falls asleep with his earphones on and finds himself in a stadium-like Babylon with three kids (Shadrach, Meshach and Abednego) forced into training to defend a failing tyrant. Forming a funny, smart and deeply loyal team, they resist and outwit a succession of autocratic bullies taking over Babylon - until the Fiery Furnace in which the three survive only in spirit. Facing a solitary trial in the lions’ den, Daniel’s friends appear and give him the strength, spirit and wisdom to survive and even rise to a power that he comes close to misusing. But their  gifts stay with him and guide him back to the waking world. 
+            A play for young audiences. The bible tale as a contemporary story for young audiences. In retreat from the demands of his parents, teachers and coaches, Daniel falls asleep with his earphones on and finds himself in a stadium-like Babylon with three kids (Shadrach, Meshach and Abednego) forced into training to defend a failing tyrant. Forming a funny, smart and deeply loyal team, they resist and outwit a succession of autocratic bullies taking over Babylon - until the Fiery Furnace in which the three survive only in spirit. Facing a solitary trial in the lions’ den, Daniel’s friends appear and give him the strength, spirit and wisdom to survive and even rise to a power that he comes close to misusing. But their  gifts stay with him and guide him back to the waking world. 
 
             </div>
             

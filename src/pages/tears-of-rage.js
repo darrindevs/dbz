@@ -40,7 +40,7 @@ const TearsOfRagePage = () => {
             </div>
             
             <div className="play-description mt-3">
-            Summer 1967 to Summer 1968. From a country club golf course to the gates of Travis Air Force Base. The struggle of five best friends just out of college whose lives will be changed by the choices they make as the Vietnam War and the Anti-war Movement escalate into conflict at home.
+            A drama. The impact of the Vietnam War on the life of a young woman. Summer 1967 to Summer 1968. From a country club golf course to the gates of Travis Air Force Base. The struggle of five best friends just out of college whose lives will be changed by the choices they make as the Vietnam War and the Anti-war Movement escalate into conflict at home.
              </div>
           </div>
           {/* Media Obect */ }

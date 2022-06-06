@@ -41,7 +41,7 @@ const AgnesSmedleyOurAmericanFriendPage = () => {
             
             
             <div className="play-description mt-3">
-            1934. In camp with the Chinese People’s Army, Agnes Smedley, a radical American journalist, interviews the popular general Chu Teh. Trading stories, they discover their lives and rebellious personalities ran parallel through poverty and oppression, leading them to deep beliefs in revolution. Played by two Asian and two non-Asian actors, the play moves through time and place like the square dances Agnes taught the revolutionaries.
+            The life story of a radical American woman. 1934. In camp with the Chinese People’s Army, Agnes Smedley, a radical American journalist, interviews the popular general Chu Teh. Trading stories, they discover their lives and rebellious personalities ran parallel through poverty and oppression, leading them to deep beliefs in revolution. Played by two Asian and two non-Asian actors, the play moves through time and place like the square dances Agnes taught the revolutionaries.
             </div>
             
           </div>

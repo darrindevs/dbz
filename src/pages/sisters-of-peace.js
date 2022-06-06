@@ -41,7 +41,7 @@ const SistersOfPeacePage = () => {
             
             
             <div className="play-description mt-3">
-            <p>Four sisters from a Depression era farm enter the Sisters of St Joseph convent in the 1950's, find their own spiritual practices in the protest movements of the 1960's, and continue into the 21st century taking stands against US militarism, environmental destruction, and the anti-LGBTQ+ restrictions of their own church. A lively telling as the McDonald sisters' Irish humor and singing has always lightened their way.</p>
+            <p>Biography. For most of the 20th century four Catholic sisters protest war and fight for social justice. Four sisters from a Depression era farm enter the Sisters of St Joseph convent in the 1950's, find their own spiritual practices in the protest movements of the 1960's, and continue into the 21st century taking stands against US militarism, environmental destruction, and the anti-LGBTQ+ restrictions of their own church. A lively telling as the McDonald sisters' Irish humor and singing has always lightened their way.</p>
              </div>
           </div>
           {/* Media Obect */ }
