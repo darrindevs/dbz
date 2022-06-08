@@ -9,6 +9,7 @@ const NavHomeAlt = () => (
         <Col sm={{ }}>
             <div>
                 <h1 className="nav-home-title-alt"><Link className="nav-home-link-lg" to="/"><span>Doris</span><br></br><span>Baizley</span></Link></h1>
+                <h2 className="pst"><span>Playwright. </span><span>Story Editor. </span><span>Teacher.</span></h2>
             </div>
         </Col>
         <Col sm={{ }}>

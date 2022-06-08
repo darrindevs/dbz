@@ -197,6 +197,7 @@ ul {
     --black: #000000;
     --background: #d1d1d1;
     --white: #ffffff;
+    --dark-grey: #3d3c3c;
   }
 
 a {
@@ -380,6 +381,13 @@ a {
 .link-contact a {
     color: var(--yellow);
     text-decoration: none;
+}
+
+/* PST */
+
+.pst {
+    text-decoration: none;
+    color: var(--dark-grey);
 }
 
 #toggle-nav {

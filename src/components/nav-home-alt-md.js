@@ -7,6 +7,7 @@ const NavHomeAltMd = () => (
     <div id="nav-home-alt-md">
         <div>
             <h1 className="nav-home-title-alt-md"><Link className="nav-home-link-lg" to="/"><span>Doris</span><br></br><span>Baizley</span></Link></h1>
+            <h2 className="pst mb-4"><span>Playwright. </span><span>Story Editor. </span><span>Teacher.</span></h2>
         </div>
         <div>
             <h2 className="nav-home-link-alt-md link-about"><Link className="nav-home-link-sm" to="/about">About</Link></h2>
