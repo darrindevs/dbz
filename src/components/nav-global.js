@@ -9,7 +9,7 @@ const NavGlobal = () => (
         <h5 className="mb-4 pst"><span>Playwright. </span><span>Story Editor. </span><span>Teacher.</span></h5>
             <h6 className="nav-global-link link-about"><Link className="nav-home-link-sm" to="/about">About</Link></h6>
             <h6 className="nav-global-link link-plays"><Link className="nav-home-link-sm" to="/plays">Plays</Link></h6>
-            <h6 className="nav-global-link link-community-projects"><Link className="nav-home-link-sm" to="/community-projects">Community Projects</Link></h6>
+            <h6 className="nav-global-link link-community-projects"><Link className="nav-home-link-sm" to="/community-based-plays">Community Based Plays</Link></h6>
             <h6 className="nav-global-link link-story-editing"><Link className="nav-home-link-sm" to="/story-editing">Story Editing</Link></h6>
             <h6 className="nav-global-link link-contact"><Link className="nav-home-link-sm" to="/contact">Contact</Link></h6>
         </div>
