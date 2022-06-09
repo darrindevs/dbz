@@ -12,7 +12,7 @@ const NavHomeAltSm = () => (
         <div>
             <h2 className="nav-home-link-alt-sm link-about"><Link className="nav-home-link-sm" to="/about">About</Link></h2>
             <h2 className="nav-home-link-alt-sm link-plays"><Link className="nav-home-link-sm" to="/plays">Plays</Link></h2>
-            <h2 className="nav-home-link-alt-sm link-community-projects"><Link className="nav-home-link-sm" to="/community-projects">Community Projects</Link></h2>
+            <h2 className="nav-home-link-alt-sm link-community-projects"><Link className="nav-home-link-sm" to="/community-projects">Community Based Plays</Link></h2>
             <h2 className="nav-home-link-alt-sm link-story-editing"><Link className="nav-home-link-sm" to="/story-editing">Story Editing</Link></h2>
             <h2 className="nav-home-link-alt-sm link-contact"><Link className="nav-home-link-sm" to="/contact">Contact</Link></h2>
         </div>
