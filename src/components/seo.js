@@ -53,6 +53,10 @@ function Seo({ description, lang, meta, title, }) {
           content: `website`,
         },
         {
+          property: 'og:image',
+          content: 'https://zno.s3.us-west-1.amazonaws.com/dbphoto.jpg',
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },
