@@ -251,10 +251,14 @@ a {
 
 #nav-home-alt {
     position: fixed; /* keep it from moving on scroll */
+    left: 0;
+    padding-left: 25px; /* prevent Bootstrap Row negative margin from clipping content on Safari/Firefox */
 }
 
 #nav-home-alt-md {
     position: fixed; /* keep it from moving on scroll */
+    left: 0;
+    padding-left: 25px;
 }
 
 #nav-home-alt-sm {
